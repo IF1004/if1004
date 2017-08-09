@@ -77,7 +77,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Plano de aulas
 
-1. Welcome, Methodology, Course Introduction (Core Topics)
-1. Background: What is DevOps?
-1. Background: The Cloud as a Platform
-1. Background: Operations
+1. 07/08 :: Welcome, Methodology, Course Introduction (Core Topics)
+1. 09/08 :: Background: What is DevOps?
+1. 14/08 :: Background: The Cloud as a Platform
+1. 16/08 :: Background: Operations
