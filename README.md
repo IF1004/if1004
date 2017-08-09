@@ -42,6 +42,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd)
 - [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
+- [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 
 ### Objetivos
 
