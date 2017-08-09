@@ -1,3 +1,4 @@
+![IF1004](/microservices-icon.png)
 # IF1004 - Seminários em Sistemas de Informação 3
 Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
