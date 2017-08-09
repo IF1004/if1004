@@ -1,7 +1,7 @@
 # IF1004 - Seminários em Sistemas de Informação 3
 Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
-## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br){:target="_blank"})
+## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
 ### Professor Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
 
