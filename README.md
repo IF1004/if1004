@@ -61,17 +61,20 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Avaliação
 
-Projeto em equipe com **até 3 membros** [70%]
-- Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicaçã.
-Observações:
-Entrega fora do prazo: redutor de 1 ponto por dia de atraso. 
-Atraso máximo: 1 (uma) semana. Após esse prazo, será dada nota zero para a respectiva atividade de avaliação.
-Trabalhos com referências bibliográficas inconsistentes terão um redutor no conteúdo técnico. 
-Trabalhos “CTRL-C + CTRL-V” terão nota zero (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
-Exercício Escolar Teórico Individual e/ou Atividades Práticas Individuais [30%]
-Exercício com questões objetivas
-Como atividade de recuperação é proposta a aplicação de um Exercício Escolar abordando os temas apresentados e discutidos em classe.
+- **Projeto em equipe com até 3 membros** [70%]
+  - Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicação simples com atrquitetura de microsserviços.
+- Observações:
+  - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
+  - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
+  - Trabalhos com referências bibliográficas inconsistentes terão um redutor no conteúdo técnico. 
+  - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
+- **Exercício Escolar Teórico Individual e/ou Atividades Práticas Individuais** [30%]
+  - Exercício com questões objetivas
+- Como atividade de recuperação é proposta a aplicação de um Exercício Escolar abordando os temas apresentados e discutidos em classe.
 
 ### Plano de aulas
 
-1. 
+1. Welcome, Methodology, Course Introduction (Core Topics)
+1. Background: What is DevOps?
+1. Background: The Cloud as a Platform
+1. Background: Operations
