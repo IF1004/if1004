@@ -1,7 +1,7 @@
 # IF1004 - Seminários em Sistemas de Informação 3
 Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
-## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} ([UFPE](http://www.ufpe.br){:target="_blank"})
+## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br){:target="_blank"})
 
 ### Professor Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
 
@@ -17,28 +17,30 @@ As modernas organizações de desenvolvimento de software exigem equipes inteira
 
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
-- [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845){:target="_blank"}
-- [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358){:target="_blank"}
+- [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
 
-- [Continous Delivery](http://www.continuousdelivery.com){:target="_blank"}
-- [Continous Integration](http://www.www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380){:target="_blank"}
-- [Designing Data-Intensive Applications](http://www.dataintensive.net/){:target="_blank"}
-- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html){:target="_blank"}
-- [The Practice of Cloud System Administration](http://www.the-cloud-book.com/){:target="_blank"}
+- [Continous Delivery](http://www.continuousdelivery.com)
+- [Continous Integration](http://www.www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
+- [Designing Data-Intensive Applications](http://www.dataintensive.net/)
+- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+- [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
 
 ### Ferramentas, Frameworks e Tecnologias
 
-- [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops){:target="_blank"}
-- [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops){:target="_blank"}
-- [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker){:target="_blank"}
-- [Ansible: Up and Running](http://www.ansiblebook.com/){:target="_blank"}
-- [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android){:target="_blank"}
-- [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins){:target="_blank"}
-- [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot){:target="_blank"}
-- [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software){:target="_blank"}
-- [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd){:target="_blank"}
+- [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops)
+- [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
+- [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
+- [Ansible: Up and Running](http://www.ansiblebook.com/)
+- [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android)
+- [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
+- [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
+- [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
+- [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd)
+- [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
+- [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 
 ### Objetivos
 
