@@ -92,3 +92,29 @@ Para participar deste curso é desejável que os participantes tenham:
 | 02   | Aug 09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) | [Reading 02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
 | 03   | Aug 14   | Background: The Cloud as a Platform |            | |
 | 04   | Aug 16   | Background: Operations |            | |
+| 05   |    | The Deployment Pipeline: Overall Architecture |            | |
+| 06   |    | The Deployment Pipeline: Building and Testing |            | |
+| 07   |    | The Deployment Pipeline: Deployment |            | |
+| 08   |    | Crosscutting Concerns: Monitoring |            | |
+| 09   |    | Crosscutting Concerns: Security and Security Audits |            | |
+| 10   |    | Crosscutting Concerns: Other \*Ilities |            | |
+| 11   |    | Crosscutting Concerns: Business Considerations |            | |
+| 12   |    | Case Studies: Supporting Multiple Datacenters |            | |
+| 13   |    | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
+| 14   |    | Case Studies: Migrating to Microservices |            | |
+| 15   |    | Moving into the Future: Operations as a Process |            | |
+| 16   |    | Moving into the Future: The Future of DevOps |            | |
+| 17   |    |  |            | |
+| 18   |    |  |            | |
+| 19   |    |  |            | |
+| 20   |    |  |            | |
+| 21   |    |  |            | |
+| 22   |    |  |            | |
+| 23   |    |  |            | |
+| 24   |    |  |            | |
+| 25   |    |  |            | |
+| 26   |    |  |            | |
+| 27   |    |  |            | |
+| 28   |    |  |            | |
+| 29   |    |  |            | |
+| 30   |    |  |            | |
