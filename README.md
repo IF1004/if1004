@@ -89,6 +89,6 @@ Para participar deste curso é desejável que os participantes tenham:
 | Class    | Date    | Topics                           |  Resources | Assignments       |
 |----------|----------|----------------------------------|------------| ----------------  |
 | 01   | Aug 07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Reading 01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
-| 02   | Aug 09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-2017-devops-02.pdf) | [Reading 02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
+| 02   | Aug 09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) | [Reading 02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
 | 03   | Aug 14   | Background: The Cloud as a Platform |            | |
 | 04   | Aug 16   | Background: Operations |            | |
