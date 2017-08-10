@@ -2,7 +2,7 @@
 
 This homework will prepare you for basic setup for the course.
 
-## 1.1 Basic course setup (20)
+## Basic course setup (20)
 
 ##### Slack (10)
 
