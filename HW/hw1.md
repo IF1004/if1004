@@ -45,7 +45,8 @@ In your solution, provide the content of "post-commit". Finally, take a screenca
 
 ## Concepts (20)
 
-Reading 01: https://cl.ly/lu7K
+Reading 01: C. Parnin et al., "[The Top 10 Adages in Continuous Deployment](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-2017-2-reading01.pdf)",  in IEEE Software, vol. 34, no. 3, pp. 86-95, May-Jun. 2017.
+doi: 10.1109/MS.2017.86
 
 * In your own words, explain the difference between continuous integration, continuous delivery, and continuous deployment.
 * How does DevOps team model (e.g., site reliability engineer) differ than a a NoOps team model (e.g. Netflix team)? What differences in architecture allow for a NoOps model?
