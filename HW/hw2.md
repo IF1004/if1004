@@ -9,3 +9,5 @@ Reading the article "[Facts, trends and challenges in modern software developmen
 ## Submit
 
 Submit in our Slack team, http://if1004-2017-2.slack.com, a MD file (LOGIN-HW1.md) containing your answer.
+
+**Due Sunday**, 8/14, 17:00.
