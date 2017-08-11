@@ -6,9 +6,10 @@ Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente E
 
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
-### Professor Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+### Instrutores
 
-### Teach Assistant José Fernando Santos de Carvalho ([jfsc@cin.ufpe.br](mailto:jfsc@cin.ufpe.br))
+* Professor Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+* Teach Assistant José Fernando Santos de Carvalho, _Fish_, ([jfsc@cin.ufpe.br](mailto:jfsc@cin.ufpe.br))
 
 ### Local
 
