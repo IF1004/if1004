@@ -71,6 +71,17 @@ Para participar deste curso é desejável que os participantes tenham:
 - Conhecimento de modelos de processo de desenvolvimento de software, em especial Metodologias Ágeis, testes de software. COnhecimento em TDD e BDD serão uma vantagem. Maiores informações podem ser consultadas no site da disciplina de [Engenharia de Software (IF977)](http://www.cin.ufpe.br/~if977).
 - Experiência em sistemas de computação, armazenamento, infraestruturas de rede e computação em nuvem será uma vantagem.
 
+### Recursos
+
+[Slack team](http://if1004-2017-2.slack.com)
+
+#### Artigos
+
+* [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
+
+#### Glossary of Tools
+
+* http://newrelic.com/devops/toolset
 
 ### Avaliação
 
