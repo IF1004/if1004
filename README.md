@@ -48,10 +48,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 
-### Referências de outros cursos correlatos
-
-- [DevOps: CSC 519](https://github.com/CSC-DevOps/Course)
-
 ### Objetivos
 
 Espera-se que os alunos vivenciem exposição prática a ferramentas, processos e princípios de engenharia de software através de projetos práticos, enquanto compreendem modelos e ideias de pesquisa por trás das ferramentas e processos. As aulas incluirão experiências de aprendizagem no estilo de workshops, onde os alunos irão trabalhar em um problema e receberão comentários do professor, colaboradores convidados e outros colegas de classe. Quando possível, palestras convidadas da indústria ajudarão a ilustrar exemplos de como a tecnologia é implantada na prática.
@@ -79,9 +75,14 @@ Para participar deste curso é desejável que os participantes tenham:
 
 * [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
 
-#### Glossary of Tools
+#### Glossário de Ferramentas
 
 * http://newrelic.com/devops/toolset
+
+#### Referências de outros cursos correlatos
+
+- [DevOps: CSC 519](https://github.com/CSC-DevOps/Course)
+
 
 ### Avaliação
 
