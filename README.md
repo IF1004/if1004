@@ -33,7 +33,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
 
-### Ferramentas, Frameworks e Tecnologias
+### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
 - [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops)
 - [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
