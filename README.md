@@ -68,6 +68,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 - Conhecimento **básico de inglês técnico** para leitura, estudo e acompanhamento das atividades propostas, uma vez que a maior parte do material disponível está em inglês.
 - Conhecimento básico de arquitetura de computador, sistemas operacionais, redes, engenharia de software e banco de dados.
+- Conhecimento de modelos de processo de desenvolvimento de software, em especial Metodologias Ágeis, testes de software. COnhecimento em TDD e BDD serão uma vantagem. Maiores informações podem ser consultadas no site da disciplina de [Engenharia de Software (IF977)](http://www.cin.ufpe.br/~if977).
 - Experiência em sistemas de computação, armazenamento, infraestruturas de rede e computação em nuvem será uma vantagem.
 
 
