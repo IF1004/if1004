@@ -100,35 +100,36 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Plano de aulas
 
-| Class    | Date    | Topics                           |  Resources | Assignments       |
+| Class    | Topics                           |  Resources | Assignments       |
 |----------|----------|----------------------------------|------------| ----------------  |
-| 01   | Aug 07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Reading 01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
-| 02   | Aug 09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) | [Reading 02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
-| 03   | Aug 14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) & [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Reading 03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) | |
-| 04   | Aug 16   | Background: Operations |            | |
-| 05   |    | The Deployment Pipeline: Overall Architecture |            | |
-| 06   |    | The Deployment Pipeline: Building and Testing |            | |
-| 07   |    | The Deployment Pipeline: Deployment |            | |
-| 08   |    | Crosscutting Concerns: Monitoring |            | |
-| 09   |    | Crosscutting Concerns: Security and Security Audits |            | |
-| 10   |    | Crosscutting Concerns: Other \*Ilities |            | |
-| 11   |    | Crosscutting Concerns: Business Considerations |            | |
-| 12   |    | Case Studies: Supporting Multiple Datacenters |            | |
-| 13   |    | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
-| 14   |    | Case Studies: Migrating to Microservices |            | |
-| 15   |    | Moving into the Future: Operations as a Process |            | |
-| 16   |    | Moving into the Future: The Future of DevOps |            | |
-| 17   |    |  |            | |
-| 18   |    |  |            | |
-| 19   |    |  |            | |
-| 20   |    |  |            | |
-| 21   |    |  |            | |
-| 22   |    |  |            | |
-| 23   |    |  |            | |
-| 24   |    |  |            | |
-| 25   |    |  |            | |
-| 26   |    |  |            | |
-| 27   |    |  |            | |
-| 28   |    |  |            | |
-| 29   |    |  |            | |
-| 30   |    |  |            | |
+| Aug 07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Reading 01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
+| Aug 09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) | [Reading 02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
+| Aug 14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) & [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Reading 03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) | |
+| Aug 16   | Background: Operations |            | |
+|    | The Deployment Pipeline: Overall Architecture |            | |
+|    | The Deployment Pipeline: Building and Testing |            | |
+|    | The Deployment Pipeline: Deployment |            | |
+|    | Crosscutting Concerns: Monitoring |            | |
+|    | Crosscutting Concerns: Security and Security Audits |            | |
+|    | Crosscutting Concerns: Other \*Ilities |            | |
+|    | Crosscutting Concerns: Business Considerations |            | |
+|    | Case Studies: Supporting Multiple Datacenters |            | |
+|    | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
+|    | Case Studies: Migrating to Microservices |            | |
+|    | Moving into the Future: Operations as a Process |            | |
+|    | Moving into the Future: The Future of DevOps |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|    |  |            | |
+|----------|----------|----------------------------------|------------| ----------------  |
