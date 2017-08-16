@@ -10,4 +10,4 @@ Reading the article "[Facts, trends and challenges in modern software developmen
 
 Submit in our Slack team, http://if1004-2017-2.slack.com, a MD file (LOGIN-HW1.md) containing your answer.
 
-**Due Sunday**, 8/14, 17:00.
+**Due D+5** (_Sunday, 8/14_), 17:00.
