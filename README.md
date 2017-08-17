@@ -55,9 +55,7 @@ Espera-se que os alunos vivenciem exposição prática a ferramentas, processos 
 
 ### Metodologia
 
-In the course, a mixture of traditional lectures with activities and in-class workshops will be used. During lectures, we will cover core concepts related to a topic. During the in-class workshops, we will perform sample exercises with relevant tools that reinforce lecture material. Evaluation will be based on tech talks, homework assignments, workshop attendance, and final project.
-
-Na disciplina, será utilizada uma mistura de aulas tradicionais com atividades e workshops em sala de aula. Durante as aulas, abordaremos conceitos básicos relacionados aos tópicos a serem tratados na disciplina. Durante os workshops em sala de aula, realizaremos exemplos de exercícios com ferramentas relevantes que reforçam o material de aula. 
+Na disciplina, será utilizada uma mistura de aulas tradicionais com atividades e workshops em sala de aula. Durante as aulas, abordaremos conceitos básicos relacionados aos tópicos a serem tratados na disciplina. Durante os workshops em sala de aula, realizaremos exemplos de exercícios com ferramentas relevantes que reforçam o material de aula. As avaliações serão baseadas nas aulas, exercícios dirigidos, workshops e o projeto final.
 
 ### Pré-Requisitos
 
