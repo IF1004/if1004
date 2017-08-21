@@ -73,6 +73,7 @@ Para participar deste curso é desejável que os participantes tenham:
 #### Artigos
 
 * [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
+* [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
 
 #### Glossário de Ferramentas
 
