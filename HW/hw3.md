@@ -1,9 +1,9 @@
-# Homework 3
+# Homework 5
 
-This homework will aiding you in understand the backgroud of the course.
+This homework will aiding you in understand the mais issues, challenges and benefits of the Deployment Pipeline.
 
-## Operations
+## Seminar
 
-Reading the article "[An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)", relate the **principles and practices of continuous delivery and deployment** with the **main issues and benefits** on **Dev** and **Ops teams activities**, **mentioning** - if pertinent - **ITIL practices** discussed in this class
+Students should read articles "[Scalability Issues in Online Social Networks](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf)" and [On System Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf), and prepare a 30-minute workshop on their understanding of the work.
 
-**Due D+5** (_Sunday, 8/21_), 17:00.
+**Due D+5** (_Sunday, 8/28_), 17:00.
