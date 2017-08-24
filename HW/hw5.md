@@ -1,6 +1,6 @@
 # Homework 5
 
-This homework will aiding you in understand the mais issues, challenges and benefits of the Deployment Pipeline.
+This homework will aiding you in understand the main issues, challenges and benefits of the Deployment Pipeline.
 
 ## Seminar
 
