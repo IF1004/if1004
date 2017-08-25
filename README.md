@@ -109,17 +109,17 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) | [Paper-04](https://peerj.com/preprints/1889.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
 | Aug-21 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
 | Aug-23 | DevOps and Architectural implications: Scalability | [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) & [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
-| Aug-28 | Containerization|            | |
-| Aug-30 | Monitoring |            | |
-| Sep-04 | Security and Security Audits |            | |
-| Sep-06 | Other \*Ilities |            | |
-| Sep-11 | Business Considerations |            | |
-| Sep-13 | Case Studies: Supporting Multiple Datacenters |            | |
+| Aug-28 | Seminários |            | |
+| Aug-30 | Other \*Ilities|            | |
+| Sep-04 | Deploy and Containers|            | |
+| Sep-06 | Deploy and Containers|            | |
+| Sep-11 | Monitoring |            | |
+| Sep-13 | Business Considerations |            | |
 | Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
 | Sep-20 | Case Studies: Migrating to Microservices |            | |
-| Sep-25 | Moving into the Future: Operations as a Process |            | |
+| Sep-25 | Case Studies: Supporting Multiple Datacenters |            | |
 | Sep-27 | Moving into the Future: The Future of DevOps |            | |
-| Oct-02 |  |            | |
+| Oct-02 | Moving into the Future: Operations as a Process|            | |
 | Oct-04 |  |            | |
 | Oct-09 |  |            | |
 | Oct-11 |  |            | |
