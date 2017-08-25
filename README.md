@@ -1,4 +1,4 @@
-# IF1004 - Seminários em Sistemas de Informação 3
+﻿# IF1004 - Seminários em Sistemas de Informação 3
 
 Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
@@ -107,13 +107,13 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) | [Paper-02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
 | Aug-14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) | [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
 | Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) | [Paper-04](https://peerj.com/preprints/1889.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
-| Aug-21 | [The Deployment Pipeline: Overall Architecture](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
-| Aug-23 | The Deployment Pipeline: Building and Testing | [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) & [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
-| Aug-28 | The Deployment Pipeline: Deployment |            | |
-| Aug-30 | Crosscutting Concerns: Monitoring |            | |
-| Sep-04 | Crosscutting Concerns: Security and Security Audits |            | |
-| Sep-06 | Crosscutting Concerns: Other \*Ilities |            | |
-| Sep-11 | Crosscutting Concerns: Business Considerations |            | |
+| Aug-21 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
+| Aug-23 | DevOps and Architectural implications: Scalability | [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) & [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
+| Aug-28 | Containerization|            | |
+| Aug-30 | Monitoring |            | |
+| Sep-04 | Security and Security Audits |            | |
+| Sep-06 | Other \*Ilities |            | |
+| Sep-11 | Business Considerations |            | |
 | Sep-13 | Case Studies: Supporting Multiple Datacenters |            | |
 | Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
 | Sep-20 | Case Studies: Migrating to Microservices |            | |
