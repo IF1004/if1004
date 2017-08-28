@@ -109,7 +109,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) | [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
 | Aug-21 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
 | Aug-23 | DevOps and Architectural implications: Scalability | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
-| Aug-28 | Seminários |            | |
+| Aug-28 | Seminars |            | |
 | Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
 | Sep-04 | Deploy and Containers|            | |
 | Sep-06 | Deploy and Containers|            | |
