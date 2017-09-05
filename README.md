@@ -111,8 +111,8 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-23 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
 | Aug-28 | Seminars |            | |
 | Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
-| Sep-04 | Deploy and Containers|            | |
-| Sep-06 | Deploy and Containers|            | |
+| Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
+| Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
 | Sep-11 | Monitoring |            | |
 | Sep-13 | Business Considerations |            | |
 | Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
