@@ -112,7 +112,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-28 | Seminars |            | |
 | Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
 | Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
-| Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
+| Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           | |
 | Sep-11 | Monitoring |            | |
 | Sep-13 | Business Considerations |            | |
 | Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
