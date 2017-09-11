@@ -27,7 +27,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
-
+- [The evolution of DevOps](https://www.oreilly.com/ideas/the-evolution-of-devops?imm_mid=0f5f78&cmp=em-webops-na-na-vlny17_nurture_em9_evolution_devops)
 - [Continous Delivery](http://www.continuousdelivery.com)
 - [Continous Integration](http://www.www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
