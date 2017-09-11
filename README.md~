@@ -27,7 +27,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
-- [The evolution of DevOps](https://www.oreilly.com/ideas/the-evolution-of-devops?imm_mid=0f5f78&cmp=em-webops-na-na-vlny17_nurture_em9_evolution_devops)
+
 - [Continous Delivery](http://www.continuousdelivery.com)
 - [Continous Integration](http://www.www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
@@ -113,7 +113,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
 | Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
 | Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           | |
-| Sep-11 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
+| Sep-11 | Monitoring |            | |
 | Sep-13 | Business Considerations |            | |
 | Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
 | Sep-20 | Case Studies: Migrating to Microservices |            | |
