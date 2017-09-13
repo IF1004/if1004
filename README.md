@@ -29,7 +29,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Bibliografia Complementar
 - [The evolution of DevOps](https://www.oreilly.com/ideas/the-evolution-of-devops?imm_mid=0f5f78&cmp=em-webops-na-na-vlny17_nurture_em9_evolution_devops)
 - [Continous Delivery](http://www.continuousdelivery.com)
-- [Continous Integration](http://www.www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
+- [Continous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
