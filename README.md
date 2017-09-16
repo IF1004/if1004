@@ -115,7 +115,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
 | Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           | |
 | Sep-11 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
-| Sep-13 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
+| Sep-13 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
 | Sep-18 | Monitoring |            | |
 | Sep-20 | Monitoring |            | |
 | Sep-25 | Business Considerations |            | |
