@@ -115,15 +115,15 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
 | Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           | |
 | Sep-11 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
-| Sep-13 | Business Considerations |            | |
-| Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
-| Sep-20 | Case Studies: Migrating to Microservices |            | |
-| Sep-25 | Case Studies: Supporting Multiple Datacenters |            | |
+| Sep-13 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
+| Sep-18 | Monitoring |            | |
+| Sep-20 | Monitoring |            | |
+| Sep-25 | Business Considerations |            | |
 | Sep-27 | Moving into the Future: The Future of DevOps |            | |
 | Oct-02 | Moving into the Future: Operations as a Process|            | |
-| Oct-04 |  |            | |
-| Oct-09 |  |            | |
-| Oct-11 |  |            | |
+| Oct-04 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
+| Oct-09 | Case Studies: Migrating to Microservices |            | |
+| Oct-11 | Case Studies: Supporting Multiple Datacenters |            | |
 | Oct-16 |  |            | |
 | Oct-18 |  |            | |
 | Oct-23 |  |            | |
