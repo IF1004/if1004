@@ -112,11 +112,11 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-23 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
 | Aug-28 | Seminars |            | |
 | Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
-| Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)|            | |
-| Sep-06 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           | |
-| Sep-11 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
-| Sep-13 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
-| Sep-18 | Monitoring |  [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/exercises-log.txt")           | |
+| Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| ||
+| Sep-06 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw7.md)|
+| Sep-11 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
+| Sep-13 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
+| Sep-18 | Monitoring |            | |
 | Sep-20 | Monitoring |            | |
 | Sep-25 | Business Considerations |            | |
 | Sep-27 | Moving into the Future: The Future of DevOps |            | |
