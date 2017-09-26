@@ -38,6 +38,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
 - [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
+- [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages)
+- [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment)
 - [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops)
 - [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
