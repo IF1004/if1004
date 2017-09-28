@@ -33,7 +33,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
-- [Where to Start with DevOps Series](https://itrevolution.com/starting-devops-value-stream/), October 17, 2016 by Gene Kim [**mus read!**]
+- [Where to Start with DevOps Series](https://itrevolution.com/starting-devops-value-stream/), October 17, 2016 by Gene Kim (**must read!**)
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
