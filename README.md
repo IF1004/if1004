@@ -123,12 +123,12 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-20 | Monitoring |            | |
 | Sep-25 | Business Considerations |            | |
 | Sep-27 | Moving into the Future: The Future of DevOps |            | |
-| Oct-02 | Moving into the Future: Operations as a Process|            | |
-| Oct-04 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
-| Oct-09 | Case Studies: Migrating to Microservices |            | |
-| Oct-11 | Case Studies: Supporting Multiple Datacenters |            | |
-| Oct-16 |  |            | |
-| Oct-18 |  |            | |
+| Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
+| Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
+| Oct-09 | Moving into the Future: Operations as a Process |            | |
+| Oct-11 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
+| Oct-16 | Case Studies: Migrating to Microservices |            | |
+| Oct-18 | Case Studies: Supporting Multiple Datacenters |            | |
 | Oct-23 |  |            | |
 | Oct-25 |  |            | |
 | Oct-30 |  |            | |
