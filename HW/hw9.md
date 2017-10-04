@@ -27,4 +27,4 @@ Read the article [Testing Strategies in a Microservice Architecture](https://mar
 
 
 
-Due Sunday, 10/11, 19:00.
+_**Due Sunday, 10/11, 19:00.**_
