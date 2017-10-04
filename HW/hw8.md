@@ -2,7 +2,7 @@
 
 This homework will aiding you in understand the backgroud, main issues, challenges and benefits of the adoption of Microservices.
 	
-## Introduction to Microservies challenges and opportunities
+## Introduction to Microservices challenges and opportunities
 
 Reading pr listen the following articles:
 
@@ -17,4 +17,4 @@ Now, in your words, try to answer these questions:
 * Explain the concepts and features of the [Twelve-Factor Applications](https://12factor.net/).
 * Explain the principle of Antifragile (Random House) from Nassim Taleb applied tpo Microservices and DevOps.
 
-Due Sunday, 10/09, 17:00.
+_**Due Sunday, 10/09, 17:00**_.
