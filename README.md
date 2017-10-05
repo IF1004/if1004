@@ -15,6 +15,8 @@ Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente E
 
 Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E121.
 
+Aulas práticas, quando ocorreram, serão no Lab G2.
+
 ### Ementa
 
 As modernas organizações de desenvolvimento de software exigem equipes inteiras de DevOps para automatizar e manter processos de engenharia de software e infraestrutura vitais para a organização. Nesta disciplina, os alunos terão exposição prática às habilidades, ferramentas e conhecimentos necessários para automatizar processos e infraestruturas de engenharia de software. Os alunos terão a chance de criar novas, ou ampliar, ferramentas existentes de engenharia de software e projetar um pipeline DevOps.
