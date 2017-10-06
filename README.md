@@ -122,15 +122,15 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-11 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
 | Sep-13 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
 | Sep-18 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/exercises-log.txt)           | |
-| Sep-20 | Monitoring |            | |
-| Sep-25 | Business Considerations |            | |
-| Sep-27 | Moving into the Future: The Future of DevOps |            | |
+| Sep-20 | ???? |            | |
+| Sep-25 | ???? |            | |
+| Sep-27 | ???? |            | |
 | Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
 | Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
-| Oct-09 | Moving into the Future: Operations as a Process |            | |
-| Oct-11 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
-| Oct-16 | Case Studies: Migrating to Microservices |            | |
-| Oct-18 | Case Studies: Supporting Multiple Datacenters |            | |
+| Oct-09 | Business Considerations |            | |
+| Oct-11 |  |            | |
+| Oct-16 |  |            | |
+| Oct-18 |  |            | |
 | Oct-23 |  |            | |
 | Oct-25 |  |            | |
 | Oct-30 |  |            | |
