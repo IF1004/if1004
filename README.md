@@ -29,19 +29,16 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
+
 - [The evolution of DevOps](https://www.oreilly.com/ideas/the-evolution-of-devops?imm_mid=0f5f78&cmp=em-webops-na-na-vlny17_nurture_em9_evolution_devops)
-- [Continous Delivery](http://www.continuousdelivery.com)
 - [Continous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
-- [Designing Data-Intensive Applications](http://www.dataintensive.net/)
-- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
-- [Where to Start with DevOps Series](https://itrevolution.com/starting-devops-value-stream/), October 17, 2016 by Gene Kim (**must read!**)
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
-- [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
-- [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages)
-- [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment)
+- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+- [Designing Data-Intensive Applications](http://www.dataintensive.net/)
+- [Continous Delivery](http://www.continuousdelivery.com)
 - [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops)
 - [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
@@ -52,9 +49,23 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
 - [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd)
 - [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
+- [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
+
+### Blogs, Disciplinas, Treinamentos
+
+- [Where to Start with DevOps Series](https://itrevolution.com/starting-devops-value-stream/), October 17, 2016 by Gene Kim (**must read!**)
+- [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
-- [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
+
+### Business Cases
+
+- [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages)
+- [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment)
+
+### Research Trends
+
+- [How does Docker affect energy consumption? Evaluating workloads in and out of Docker containers](https://arxiv.org/abs/1705.01176)
 
 ### Objetivos
 
