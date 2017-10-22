@@ -37,7 +37,5 @@ $ grep "200" logs/localhost_access_log.<YYYY-MM-DD>.txt | wc -l
 
 10. Did you like to do those things manually?
 
-
-
-
- 
+11. The last exercise is: show the amount of access on each machine trough
+kibana. 

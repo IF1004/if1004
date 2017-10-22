@@ -1,0 +1,130 @@
+1-Reading logs from containers
+
+1. First, get log from a linux machine.
+
+$ tail -f /var/log/messages
+
+These logs correspond to events from docker host
+
+2. Now, try running a container as usual:
+
+$ docker run -d --name tomcat -p 8989:8080 tomcat
+
+3. Try follow the logs as they are generated
+
+$ docker container logs -f tomcat
+(CTRL+C to break out of following mode).
+
+4. Every request to tomcat will insert a event on tomcat access logfile. To test that, throw 3 requests to container port through curl
+
+$ curl localhost:8989
+
+5. Run bash terminal in iterative mode
+
+$ docker exec -it tomcat bash
+
+6. Read the tomcat access log.
+
+$ tail -f logs/localhost_access_log.<YYYY-MM-DD>.txt
+
+7. Collect the number of sucessfull resquests (HTTP 200)
+
+$ grep "200" logs/localhost_access_log.<YYYY-MM-DD>.txt | wc -l
+
+8. Now, create others 5 containers exposing docker host ports among 8990-8994 (as made in step 2) and put names as tomcatA,tomcatB and etc.
+
+9. Repeat the steps 4 to 7. Remeber to use the right ports on 4th step (ex. curl localhost:8990)
+
+10. Did you like to do those things manually? Stop all containers and remove them.
+
+11. Now we´ll try another way to log events. Thus, create a folder with name tomcat-logs.
+
+$ mkdir /tmp/tomcat-logs; cd /tmp/tomcat-logs
+
+12. Add 3 files
+
+$ touch catalina.$(date +%F).log  host-manager.$(date +%F).log  localhost.$(date +%F).log  localhost_access_log.$(date +%F).txt  manager.$(date +%F).log 
+
+13. Start a container 
+
+$ docker run  -v /tmp/tomcat-logs:/usr/local/tomcat/logs  -p 8089:8080 tomcat
+
+14. 
+
+$ mkdir ~/elastic; cd ~/elastic
+
+15. Download and extract logstash, elasticsearch, and kibana
+
+$ curl -O https://artifacts.elastic.co/downloads/logstash/logstash-5.6.1.tar.gz 
+$ tar -zxvf logstash-5.6.1.tar.gz
+$ curl -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.6.1.tar.gz
+$ tar -zxvf elasticsearch-5.6.1.tar.gz
+$ curl -O https://artifacts.elastic.co/downloads/kibana/kibana-5.6.1-linux-x86_64.tar.gz
+$ tar -zxvf kibana-5.6.1-linux-x86_64.tar.gz
+
+
+16. Starting elasticsearch
+
+$ cd elasticsearch-5.6.1
+$ sh bin/elasticsearch
+
+17. Configure logstash (pipeline)
+
+$ cd logstash-5.6.1/
+$ vi mypipeline.conf
+
+input {
+  file { path => [ "/tmp/tomcat-logs/localhost_access_log.2017-09-23.txt" ]
+         start_position => "beginning"
+         codec => "plain"
+        }
+}
+
+filter {
+grok {  
+        match => [ "message" , "\"GET / HTTP/1.1\" %{NUMBER:status} 11250" ]
+        }
+}
+
+ output {
+      stdout { codec => rubydebug }
+      elasticsearch {
+            hosts => [ "localhost:9200" ]
+            index => "devopsfish-%{+YYYY.MM.dd}"
+
+       }
+}
+
+18. Making requests to tomcat to create data. 
+
+$ curl localhost:8089 (3 times)
+
+
+19. Consult Elastic
+
+curl -XGET 'http://localhost:9200/devopsfish-*/_search?pretty' -d '{
+	"query": {
+		"terms": {
+			"status": ["200"]
+			}
+		}
+	}'
+
+
+19. configure kibana 
+
+$ cd kibana-5.6.1
+$ vim config/kibana.yml
+$ elasticsearch_url : url_kibana
+
+18. Open browser  http://localhost:5601/ 
+
+http://localhost:5601/
+
+19. Configure an index pattern devopsfish-*
+
+20. go to discover and to explore
+
+
+
+ 
