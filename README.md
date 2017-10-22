@@ -151,8 +151,8 @@ Para participar deste curso é desejável que os participantes tenham:
 | Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
 | Oct-09 | [Business Considerations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw10.md) |
 | Oct-11 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
-| Oct-16 |  |            | |
-| Oct-18 |  |            | |
+| Oct-16 |  |Introduction to Configuration Management            | |
+| Oct-18 |  |Introduction to Configuration Management            | |  [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md)
 | Oct-23 |  |            | |
 | Oct-25 |  |            | |
 | Oct-30 |  |            | |
