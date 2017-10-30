@@ -26,6 +26,7 @@ As modernas organizações de desenvolvimento de software exigem equipes inteira
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
 - [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html): How Google runs Production Systems. Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy.
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
