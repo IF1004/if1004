@@ -155,8 +155,8 @@ Para participar deste curso é desejável que os participantes tenham:
 | Oct-11 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
 | Oct-16 | Introduction to Configuration Management |            | |
 | Oct-18 | Introduction to Configuration Management |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |  
-| Oct-23 | Configuration Management Exercise |            | |
-| Oct-25 | Configuration Management Exercise |            | |
+| Oct-23 | Configuration Management HW11 |            | |
+| Oct-25 | Configuration Management HW11 |            | |
 | Oct-30 | Read Architectural Design Decisions Papers| [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf)|  |
 | Nov-01 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
 | Nov-06 |  |            | |
