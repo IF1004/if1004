@@ -2,7 +2,7 @@
 
 Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
-![IF1004](/microservices-icon.png?style=centerme)
+![IF1004](/microservices-icon.png?style=center)
 
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
