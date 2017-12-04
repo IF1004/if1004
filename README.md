@@ -1,6 +1,6 @@
 ﻿# IF1004 - Seminários em Sistemas de Informação 3
 
-Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
+Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
 ![IF1004](/microservices-icon.png)
 
