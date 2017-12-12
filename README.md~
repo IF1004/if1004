@@ -1,6 +1,6 @@
 ﻿# IF1004 - Seminários em Sistemas de Informação 3
 
-Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
+Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
 ![IF1004](/microservices-icon.png)
 
@@ -26,7 +26,6 @@ As modernas organizações de desenvolvimento de software exigem equipes inteira
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
 - [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
-- [Site Reliability Engineering](https://landing.google.com/sre/book.html): How Google runs Production Systems. Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy.
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
@@ -44,7 +43,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
 - [Ansible: Up and Running](http://www.ansiblebook.com/)
-- [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
 - [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android)
 - [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 - [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
@@ -59,7 +57,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
-- [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
 
 ### Business Cases
 
@@ -146,20 +143,20 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-06 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw7.md)|
 | Sep-11 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
 | Sep-13 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
-| Sep-18 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-20 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-25 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-27 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-18 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/exercises-log.txt)           | |
+| Sep-20 | ???? |            | |
+| Sep-25 | ???? |            | |
+| Sep-27 | ???? |            | |
 | Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
 | Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
 | Oct-09 | [Business Considerations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw10.md) |
 | Oct-11 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
-| Oct-16 | [Introduction to Configuration Management]|            | |
+| Oct-16 | Introduction to Configuration Management |            | |
 | Oct-18 | Introduction to Configuration Management |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |  
-| Oct-23 | Configuration Management HW11 |            | |
-| Oct-25 | Configuration Management HW11 |            | |
-| Oct-30 | Read Architectural Design Decisions Papers| [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf)|  |
-| Nov-01 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
+| Oct-23 |  |            | |
+| Oct-25 |  |            | |
+| Oct-30 |  |            | |
+| Nov-01 |  |            | |
 | Nov-06 |  |            | |
 | Nov-08 |  |            | |
 | Nov-13 |  |            | |
