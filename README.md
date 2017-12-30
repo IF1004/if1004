@@ -146,7 +146,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-06 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw7.md)|
 | Sep-11 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
 | Sep-13 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
-| Sep-18 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-18 | [Monitoring](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf) | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
 | Sep-20 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
 | Sep-25 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
 | Sep-27 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
