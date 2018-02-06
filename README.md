@@ -17,7 +17,7 @@ Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30),
 
 Aulas práticas, quando ocorreram, serão no Lab G2.
 
-### Últimas versões
+### Edições passadas
 
 - [2017.2](https://github.com/vinicius3w/if1004-DevOps/tree/if1004-2017-2)
 
