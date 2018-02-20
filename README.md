@@ -71,6 +71,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
+- [Containers Patterns: There are a thousand ways to use containers](https://l0rd.github.io/containerspatterns/#1)
 
 ### Business Cases
 
