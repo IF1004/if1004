@@ -2,7 +2,7 @@
 
 Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
-![IF1004](/microservices-icon.png)
+![IF1004](/devops-icon.png)
 
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
@@ -41,6 +41,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
 - [Why companies need a container strategy now](https://hackernoon.com/why-companies-need-a-container-strategy-now-a85a4f693d6c)
 - [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
 - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
