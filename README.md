@@ -41,6 +41,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
 - [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
 - [Why companies need a container strategy now](https://hackernoon.com/why-companies-need-a-container-strategy-now-a85a4f693d6c)
 - [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
