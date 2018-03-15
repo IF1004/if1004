@@ -79,6 +79,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
 - [Containers Patterns: There are a thousand ways to use containers](https://l0rd.github.io/containerspatterns/#1)
+- [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
 
 ### Business Cases
 
