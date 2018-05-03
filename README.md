@@ -135,8 +135,9 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Referências de outros cursos correlatos
 
-- [DevOps: CSC 519](https://github.com/CSC-DevOps/Course)
-
+- [DevOps: CSC 519](https://github.com/CSC-DevOps/Course), [Prof. Chris Parnin](https://github.com/chrisparnin), NC State University
+- [Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/vinicius3w/if1007-Microservices), [Prof. Vinicius Garcia](http://viniciusgarcia.me), [Centro de Informática](http://www.cin.ufpe.br) - UFPE
+- [Programação para a Web 2](https://github.com/diegoep/pweb2), [Prof. Diego Pessoa](https://github.com/diegoep), CST em Análise e Desenvolvimento de Sistemas, [IFPB - Campus Cajazeiras](http://ifpb.edu.br/cajazeiras)
 
 ### Avaliação
 
