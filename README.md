@@ -66,6 +66,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+- [Is DevOps driving enterprise cloud adoption or vice versa?](https://www.techrepublic.com/article/is-devops-driving-enterprise-cloud-adoption-or-vice-versa/)
 - [Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
 - [Deploying Java Applications with Docker and Kubernetes](https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java) & [oreilly-docker-java-shopping](https://github.com/vinicius3w/oreilly-docker-java-shopping)
 - [Deploying Java Applications with Kubernetes and an API Gateway](https://hackernoon.com/deploying-java-applications-with-kubernetes-and-an-api-gateway-fc471644bea7)
@@ -156,7 +157,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 | Classes       | Topics                      | Resources | Assignments |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-| Aug-07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Paper-01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
+| Aug-07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Paper-01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) & [Post-01](https://www.techrepublic.com/article/is-devops-driving-enterprise-cloud-adoption-or-vice-versa/) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
 | Aug-09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) (Chapter 1 from Len Bass' book)| [Paper-02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
 | Aug-14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book)| [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
 | Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book)| [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
