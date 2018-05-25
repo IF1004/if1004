@@ -41,6 +41,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
 - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
 - [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
 - [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
