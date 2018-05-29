@@ -42,29 +42,40 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
 - [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
-- [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
-- [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
 - [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
 - [Why companies need a container strategy now](https://hackernoon.com/why-companies-need-a-container-strategy-now-a85a4f693d6c)
 - [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
-- [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
 - [Continous Delivery](http://www.continuousdelivery.com)
 - [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops)
 - [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
-- [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
-- [Ansible: Up and Running](http://www.ansiblebook.com/)
-- [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
 - [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android)
-- [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
-- [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
-- [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
-- [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd)
 - [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
 - [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
-- [Travis CI](https://travis-ci.org/), Test and Deploy with Confidence
-- [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
+- Docker
+  - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
+  - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
+- Swarm
+  - [Docker 1.12 Swarm Mode Deep Dive Part 1: Topology](https://www.youtube.com/watch?v=dooPhkXT9yI)
+  - [Docker 1.12 Swarm Mode Deep Dive Part 2: Orchestration](https://www.youtube.com/watch?v=_F6PSP-qhdA)
+  - [Heart of the SwarmKit: Topology Management by Andrea Luzzardi](https://speakerdeck.com/aluzzardi/heart-of-the-swarmkit-topology-management)
+  - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
+- Kubernetes
+  - [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
+  - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
+- Ansible
+  - [Ansible: Up and Running](http://www.ansiblebook.com/)
+- Jenkins
+  - [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
+- Travis CI
+  - [Travis CI](https://travis-ci.org/), Test and Deploy with Confidence
+- Spring Boot
+  - [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
+- Testes
+  - [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
+  - [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
+  - [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd)
 
 ### Blogs, Disciplinas, Treinamentos
 
