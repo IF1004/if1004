@@ -136,7 +136,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Recursos
 
-[Slack team](http://if1004-2017-2.slack.com)
+- [Slack team](http://if1004-2017-2.slack.com)
+- [Pkay-with-docker](http://play-with-docker.com/): a simple, interactive and fun playground to learn Docker
 
 #### Artigos
 
