@@ -61,6 +61,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Docker 1.12 Swarm Mode Deep Dive Part 2: Orchestration](https://www.youtube.com/watch?v=_F6PSP-qhdA)
   - [Heart of the SwarmKit: Topology Management by Andrea Luzzardi](https://speakerdeck.com/aluzzardi/heart-of-the-swarmkit-topology-management)
   - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
+  - [Docker Cloud Fleet Management and Collaboration (YouTube)](https://youtu.be/VJmbCioYKGg)
 - Kubernetes
   - [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
   - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
