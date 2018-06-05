@@ -56,14 +56,16 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Docker
   - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
   - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
+  - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
+  - [Docker Cloud Fleet Management and Collaboration (YouTube)](https://youtu.be/VJmbCioYKGg)
+  - [Journey to Docker Production: Evolving Your Infrastructure and Processes](https://www.youtube.com/watch?v=ZdUcKtg84T8), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon17 in Austin
+  [Taking Docker to Production: What You Need to Know and Decide](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon Europe 2017
 - Swarm
   - [Docker 1.12 Swarm Mode Deep Dive Part 1: Topology](https://www.youtube.com/watch?v=dooPhkXT9yI)
   - [Docker 1.12 Swarm Mode Deep Dive Part 2: Orchestration](https://www.youtube.com/watch?v=_F6PSP-qhdA)
   - [Heart of the SwarmKit: Topology Management by Andrea Luzzardi](https://speakerdeck.com/aluzzardi/heart-of-the-swarmkit-topology-management)
-  - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
-  - [Docker Cloud Fleet Management and Collaboration (YouTube)](https://youtu.be/VJmbCioYKGg)
-  - [Journey to Docker Production: Evolving Your Infrastructure and Processes](https://www.youtube.com/watch?v=ZdUcKtg84T8), Bret Fisher - Independent Docker and DevOps Consultant, DockerCon17 in Austin
-  [Taking Docker to Production: What You Need to Know and Decide](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt), Bret Fisher - Independent Docker and DevOps Consultant, DockerCon Europe 2017
+  - [Everything You Thought You Already Knew About Orchestration](https://www.youtube.com/watch?v=Qsv-q8WbIZY), Laura Frank from DockerCon 2017
+  - [Using Prune to Keep Your Docker System Clean (YouTube)](https://youtu.be/_4QzP7uwtvI)
 - Kubernetes
   - [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
   - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
