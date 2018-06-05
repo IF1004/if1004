@@ -62,6 +62,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Heart of the SwarmKit: Topology Management by Andrea Luzzardi](https://speakerdeck.com/aluzzardi/heart-of-the-swarmkit-topology-management)
   - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
   - [Docker Cloud Fleet Management and Collaboration (YouTube)](https://youtu.be/VJmbCioYKGg)
+  - [Journey to Docker Production: Evolving Your Infrastructure and Processes](https://www.youtube.com/watch?v=ZdUcKtg84T8), Bret Fisher - Independent Docker and DevOps Consultant, DockerCon17 in Austin
+  [Taking Docker to Production: What You Need to Know and Decide](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt), Bret Fisher - Independent Docker and DevOps Consultant, DockerCon Europe 2017
 - Kubernetes
   - [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
   - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
