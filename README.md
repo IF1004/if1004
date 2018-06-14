@@ -112,6 +112,7 @@ on Sep 19, 2017
 
 ### Research Trends
 
+- G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 - [How does Docker affect energy consumption? Evaluating workloads in and out of Docker containers](https://arxiv.org/abs/1705.01176)
 - M. Kassab, J. F. DeFranco and P. A. Laplante, "[Software Testing: The State of the Practice](http://ieeexplore.ieee.org/document/8048665/)," in IEEE Software, vol. 34, no. 5, pp. 46-52, 2017. doi: 10.1109/MS.2017.3571582
 - R. Valerdi, "[Why Software Is Like Baseball](http://ieeexplore.ieee.org/document/8048622/)," in IEEE Software, vol. 34, no. 5, pp. 7-9, 2017. doi: 10.1109/MS.2017.3571583
