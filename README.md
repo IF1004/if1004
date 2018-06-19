@@ -69,6 +69,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Kubernetes
   - [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
   - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
+  - [Criando um cluster simples em cloud com o kubeadm](https://churrops.io/2018/06/19/kubernetes-criando-um-cluster-simples-em-cloud-com-o-kubeadm/)
 - Ansible
   - [Ansible: Up and Running](http://www.ansiblebook.com/)
 - Jenkins
