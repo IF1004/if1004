@@ -61,6 +61,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Journey to Docker Production: Evolving Your Infrastructure and Processes](https://www.youtube.com/watch?v=ZdUcKtg84T8), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon17 in Austin
   - [Taking Docker to Production: What You Need to Know and Decide](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon Europe 2017
   - [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
+  - [Rodando aplicações GUI em Docker (Youtube)](https://youtu.be/uQqFU5yq7_A)
 - Swarm
   - [Docker 1.12 Swarm Mode Deep Dive Part 1: Topology](https://www.youtube.com/watch?v=dooPhkXT9yI)
   - [Docker 1.12 Swarm Mode Deep Dive Part 2: Orchestration](https://www.youtube.com/watch?v=_F6PSP-qhdA)
