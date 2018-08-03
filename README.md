@@ -75,6 +75,10 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
   - [Criando um cluster simples em cloud com o kubeadm](https://churrops.io/2018/06/19/kubernetes-criando-um-cluster-simples-em-cloud-com-o-kubeadm/)
   - [11 Ways (Not) to Get Hacked - Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
+- Rancher
+  - [Rancher Sandbox](https://try.rancher.com/login)
+  - [Rancher training: a general session to getting started with Docker containers and Rancher](https://register.gotowebinar.com/rt/2905734731496917249?utm_campaign=eBook%20-%20Kubernetes%20v%20Docker&utm_source=hs_automation&utm_medium=email&utm_content=54758771&_hsenc=p2ANqtz-9kMpWui_FUdYjUW3dFdoKgl02X6mO-jwfhYlqKFdw1PoaudohC7CJLxA24-vYxE-Ih1BHndYlEZBvT_WmWsdB9UVaV4Q&_hsmi=54758771)
+  - [Kubernetes training: our monthly session covers Kubernetes concepts and running Kubernetes with Rancher](https://info.rancher.com/kubernetes-training?utm_campaign=eBook%20-%20Kubernetes%20v%20Docker&utm_source=hs_automation&utm_medium=email&utm_content=54758771&_hsenc=p2ANqtz-9kMpWui_FUdYjUW3dFdoKgl02X6mO-jwfhYlqKFdw1PoaudohC7CJLxA24-vYxE-Ih1BHndYlEZBvT_WmWsdB9UVaV4Q&_hsmi=54758771)
 - Ansible
   - [Ansible: Up and Running](http://www.ansiblebook.com/)
 - Jenkins
