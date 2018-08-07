@@ -59,6 +59,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
   - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
   - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
+  - [Tupperware: Containerized Deployment at FB](https://www.slideshare.net/Docker/aravindnarayanan-facebook140613153626phpapp02-37588997)
   - [Docker Cloud Fleet Management and Collaboration (YouTube)](https://youtu.be/VJmbCioYKGg)
   - [Journey to Docker Production: Evolving Your Infrastructure and Processes](https://www.youtube.com/watch?v=ZdUcKtg84T8), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon17 in Austin
   - [Taking Docker to Production: What You Need to Know and Decide](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon Europe 2017
