@@ -163,6 +163,7 @@ Para participar deste curso é desejável que os participantes tenham:
 * [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
 * [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
 * [The Difference between SOA and Microservices?](https://www.infoq.com/news/2017/07/soaandmicroservices?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=08242017_SpecialNL&forceSponsorshipId=1389)
+* [Large-scale cluster management at Google with Borg](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
 
 #### Glossário de Ferramentas
 
