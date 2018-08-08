@@ -23,6 +23,10 @@ Aulas práticas, quando ocorreram, serão no Lab G2.
 
 - [2017.2](https://github.com/vinicius3w/if1004-DevOps/tree/if1004-2017-2)
 
+### Comunicação
+
+- Temos um canal no Telegram para uma comunicação mais dinâmica: [t.me/if1004](https://t.me/if1004)
+
 ### Ementa
 
 As modernas organizações de desenvolvimento de software exigem equipes inteiras de DevOps para automatizar e manter processos de engenharia de software e infraestrutura vitais para a organização. Nesta disciplina, os alunos terão exposição prática às habilidades, ferramentas e conhecimentos necessários para automatizar processos e infraestruturas de engenharia de software. Os alunos terão a chance de criar novas, ou ampliar, ferramentas existentes de engenharia de software e projetar um pipeline DevOps.
