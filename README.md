@@ -209,8 +209,8 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-20 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
 | Sep-25 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
 | Sep-27 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
-| Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
+| Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Reading](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
+| Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Reading](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
 | Oct-09 | [Business Considerations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw10.md) |
 | Oct-11 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
 | Oct-16 | [Introduction to Configuration Management](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-21.pdf) |           | |
