@@ -21,7 +21,7 @@ Aulas práticas, quando ocorreram, serão no Lab G2.
 
 ### Edições passadas
 
-- [2017.2](https://github.com/vinicius3w/if1004-DevOps/tree/if1004-2017-2)
+- [Semestre 2017.2](https://github.com/IF1004/if1004/tree/if1004-2017-2)
 
 ### Comunicação
 
@@ -111,6 +111,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Where to Start with DevOps Series](https://itrevolution.com/starting-devops-value-stream/), October 17, 2016 by Gene Kim (**must read!**)
 - [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
+- [IF1007 - Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/IF1007/if1007)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
 - [Containers Patterns: There are a thousand ways to use containers](https://l0rd.github.io/containerspatterns/#1)
