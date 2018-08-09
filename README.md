@@ -196,41 +196,39 @@ Para participar deste curso é desejável que os participantes tenham:
 
 | Classes       | Topics                      | Resources | Assignments |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-| Aug-07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Paper-01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) & [Post-01](https://www.techrepublic.com/article/is-devops-driving-enterprise-cloud-adoption-or-vice-versa/) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
-| Aug-09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) (Chapter 1 from Len Bass' book)| [Paper-02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
-| Aug-14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book)| [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
-| Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book)| [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
-| Aug-21 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
-| Aug-23 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
-| Aug-28 | Seminars |            | |
-| Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
-| Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| ||
-| Sep-06 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw7.md)|
-| Sep-11 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
-| Sep-13 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
-| Sep-18 | [Monitoring](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-10.pdf) | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-20 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-25 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-27 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Reading](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
-| Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Reading](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
-| Oct-09 | [Business Considerations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw10.md) |
-| Oct-11 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
-| Oct-16 | [Introduction to Configuration Management](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-21.pdf) |           | |
-| Oct-18 | Introduction to Configuration Management |           | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |
-| Oct-23 | Configuration Management HW11 |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |
-| Oct-25 | Configuration Management HW11 |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |
-| Oct-30 | Read Architectural Design Decisions Papers| [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf)|  |
-| Nov-01 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
-| Nov-06 |  |            | |
-| Nov-08 |  |            | |
-| Nov-13 |  |            | |
-| Nov-15 | Feriado Nacional: Dia da Proclamação da República |            | |
-| Nov-20 |  |            | |
-| Nov-22 |  |            | |
-| Nov-27 |  |            | |
-| Nov-29 |  |            | |
-| Dec-04 |  |            | |
-| Dec-06 |  |            | |
-| Dec-11 |  |            | |
-| Dec-13 |  |            | |
+| Aug-13   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Paper-01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) & [Post-01](https://www.techrepublic.com/article/is-devops-driving-enterprise-cloud-adoption-or-vice-versa/) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
+| Aug-15   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) (Chapter 1 from Len Bass' book)| [Paper-02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
+| Aug-20   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book)| [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
+| Aug-22   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book)| [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
+| Aug-27 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
+| Aug-29 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
+| Sep-03 | Seminars |            | |
+| Sep-05 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
+| Sep-10 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| ||
+| Sep-12 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw7.md)|
+| Sep-17 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
+| Sep-19 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
+| Sep-24 | [Monitoring](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-10.pdf) | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-26 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-01 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-03 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-08 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Reading](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
+| Oct-10 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Reading](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
+| Oct-15 | [Business Considerations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw10.md) |
+| Oct-17 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
+| Oct-22 | [Introduction to Configuration Management](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-21.pdf) |           | |
+| Oct-24 | Introduction to Configuration Management |           | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |
+| Oct-29 | Configuration Management HW11 |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |
+| Oct-31 | Configuration Management HW11 |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |
+| Nov-05 | Read Architectural Design Decisions Papers| [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf)|  |
+| Nov-07 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
+| Nov-12 |  |            | |
+| Nov-14 |  |            | |
+| Nov-19 |  |            | |
+| Nov-21 |  |            | |
+| Nov-26 |  |            | |
+| Nov-28 |  |            | |
+| Dec-03 |  |            | |
+| Dec-05 |  |            | |
+| Dec-10 |  |            | |
+| Dec-12 |  |            | |
