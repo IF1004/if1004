@@ -25,7 +25,7 @@ Aulas práticas, quando ocorreram, serão no Lab G2.
 
 ### Comunicação
 
-- Temos um canal no Telegram para uma comunicação mais dinâmica: [t.me/if1004](https://t.me/if1004)
+- Temos um canal no Telegram para uma comunicação mais dinâmica: [Reliability Engineering Group Channel](https://t.me/regcin)
 
 ### Ementa
 
