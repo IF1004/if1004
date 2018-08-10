@@ -183,12 +183,14 @@ Para participar deste curso é desejável que os participantes tenham:
 ### Avaliação
 
 - **Projeto em equipe com até 3 membros** [70%]
-  - Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicação simples com atrquitetura de microsserviços.
-- Observações:
-  - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
-  - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
-  - Trabalhos com referências bibliográficas inconsistentes terão um redutor no conteúdo técnico. 
-  - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
+  - Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicação, serviço ou solução de apoio ao paradigma DevOps no ciclo de vida de software.
+  - O projeto é constituído da solução e todos os artefatos que a compõem (i.e. código fonte, imagens, arquivos de configuração, scripts, documentações de apoio, entre outras), um [relatório técnico final](guidelines.md) contendo a contextualização, escopo, tomadas de decisão, documentação da arquitetura da solução, projeto de implantação, etc.
+  - A [apresentação oral](guidelines.md) do projeto também conta como uma parte da avaliação do mesmo, todos os membros do time devem estar presentes.
+  - Observações:
+    - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
+    - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
+    - Trabalhos com referências bibliográficas inconsistentes terão um redutor no conteúdo técnico. 
+    - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
 - **Exercício Escolar Teórico Individual e/ou Atividades Práticas Individuais** [30%]
   - Exercício com questões objetivas
 - Como atividade de recuperação é proposta a aplicação de um Exercício Escolar abordando os temas apresentados e discutidos em classe.
