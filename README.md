@@ -15,7 +15,7 @@ Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
 ### Local
 
-Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E121.
+Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E113.
 
 Aulas práticas, quando ocorreram, serão no Lab G2.
 
