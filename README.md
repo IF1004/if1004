@@ -15,7 +15,7 @@ Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
 ### Local
 
-Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E121.
+Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E113.
 
 Aulas práticas, quando ocorreram, serão no Lab G2.
 
@@ -204,7 +204,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-20   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book)| [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
 | Aug-22   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book)| [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
 | Aug-27 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
-| Aug-29 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
+| Aug-29 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06a.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
 | Sep-03 | Seminars |            | |
 | Sep-05 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
 | Sep-10 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| ||
