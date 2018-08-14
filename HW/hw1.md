@@ -4,11 +4,11 @@ This homework will prepare you for basic setup for the course.
 
 ## Basic course setup (20)
 
-##### Slack (10)
+##### Telegram (10)
 
-Properly setting up your Slack profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your profile. Besides, make sure you have your first and last name as part of your profile.
+Properly setting up your Telegram profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your profile. Besides, make sure you have your first and last name as part of your profile.
 
-Slack team: http://if1004-2017-2.slack.com (you **must** use you _@cin.ufpe.br_ e-mail)
+Telegram channel: <https://t.me/regcin>
 
 ##### Github (10)
 
@@ -55,7 +55,7 @@ doi: 10.1109/MS.2017.86
 
 ## Submit
 
-Submit in our Slack team, http://if1004-2017-2.slack.com, a MD file containing the following:
+Submit in our Telegram channel, <https://t.me/regcin>, or send in PVT to me a MD file containing the following:
 
 * Complete moodle and slack profiles by deadline (20).
 * Screenshot of completed git tutorial (20).
@@ -65,7 +65,7 @@ Submit in our Slack team, http://if1004-2017-2.slack.com, a MD file containing 
 
 For your screenshot embed in the markdown file of your LOGIN-HW1.md. Include a link to your screencast video/gif. Include your concept answers in your markdown file.
 
-**Due Sunday**, 8/14, 17:00.
+**Due D+7**, 17:00.
 
 ## Screencast (20)
 
