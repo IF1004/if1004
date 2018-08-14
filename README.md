@@ -130,8 +130,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * [MicroServices at Netflix](http://www.slideshare.net/stonse/microservices-at-netflix), August 8, 2014
 * [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
 * [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
-* [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen
-on Sep 19, 2017
+* [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
 
 ### Research Trends
 
@@ -144,7 +143,6 @@ on Sep 19, 2017
 * J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[The Human Factor](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
 * K. Carter, "[Francois Raynaud on DevSecOps](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
 * Y. Zhao, A. Serebrenik, Y. Zhou, V. Filkov and B. Vasilescu, "[The impact of continuous integration on other software development practices: A large-scale empirical study](http://ieeexplore.ieee.org/document/8115619/)," 2017 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), Urbana, IL, 2017, pp. 60-71.
-
 
 ### Objetivos
 
@@ -179,7 +177,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Glossário de Ferramentas
 
-* http://newrelic.com/devops/toolset
+* <http://newrelic.com/devops/toolset>
 
 #### Referências de outros cursos correlatos
 
