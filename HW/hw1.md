@@ -14,7 +14,7 @@ Telegram channel: <https://t.me/regcin>
 
 Sign into [GitHub](https://github.com/).
 
-1. Create a *private* repo called HW1. 
+1. Create a *private* repo called **LOGIN-if1004**. 
 2. Go to Settings, Collaborators and Teams, and add the TAs and instructor as a collaborator (using their unity id).
 
 ## Learning Git (20)
