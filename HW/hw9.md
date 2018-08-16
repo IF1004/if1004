@@ -25,6 +25,8 @@ Undestand the main issues and the the recommended situations where the applicati
 
 Read the article [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/) by Toby Clemson.
 
+## Submit
 
+Telegram channel, <https://t.me/regcin>, a MD file (LOGIN-HW1.md) containing your answer.
 
-_**Due Sunday, 10/11, 19:00.**_
+**D+7**, 17:00.
