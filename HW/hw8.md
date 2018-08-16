@@ -17,4 +17,8 @@ Now, in your words, try to answer these questions:
 * Explain the concepts and features of the [Twelve-Factor Applications](https://12factor.net/).
 * Explain the principle of Antifragile (Random House) from Nassim Taleb applied tpo Microservices and DevOps.
 
-_**Due Sunday, 10/09, 17:00**_.
+## Submit
+
+Telegram channel, <https://t.me/regcin>, a MD file (LOGIN-HW1.md) containing your answer.
+
+**D+7**, 17:00.
