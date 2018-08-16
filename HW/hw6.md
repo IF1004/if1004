@@ -9,4 +9,8 @@ Students should read the article "[Programmers' build errors: a case study (at g
 * Your identification (name and CIn email address)
 * Your understanding of the work, a brief resume, strong and positive points, weak points, etc.
 
-**Due D+5** (_Sunday, 9/04_), 17:00.
+## Submit
+
+Telegram channel, <https://t.me/regcin>, a MD file (LOGIN-HW1.md) containing your answer.
+
+**Due D+7**, 17:00.
