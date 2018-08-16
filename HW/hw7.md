@@ -5,4 +5,8 @@ This homework will help you to acquire knowledge about Docker commands and conta
 ## Hands on
  perform and write the commands from exercises: [exercise 1](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)
 
- (_Sunday, 9/12_), 17:00.
+## Submit
+
+Telegram channel, <https://t.me/regcin>, a MD file (LOGIN-HW1.md) containing your answer.
+
+**D+7**, 17:00.
