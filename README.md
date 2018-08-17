@@ -222,10 +222,10 @@ Para participar deste curso é desejável que os participantes tenham:
 | Oct-03 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
 | Oct-08 | Crosscutting Concerns: Security and Security Audits (Chapter 8 from Len Bass' book) |            | |
 | Oct-10 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
-| Oct-15 | Managing Dockerized Microservices with Mesos and Marathon 1/2 |            | |
-| Oct-17 | Managing Dockerized Microservices with Mesos and Marathon 2/2 |            | |
-| Oct-22 | Introduction to Kubernetes 1/2 |            | |
-| Oct-24 | Introduction to Kubernetes 2/2 |            | |
+| Oct-15 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
+| Oct-17 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
+| Oct-22 | [Introduction to Kubernetes 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
+| Oct-24 | [Introduction to Kubernetes 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
 | Oct-29 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-02](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/IF1004/if1004/blob/master/HW/hw8.md) |
 | Oct-31 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-03](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/IF1004/if1004/blob/master/HW/hw9.md) |
 | Nov-05 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
