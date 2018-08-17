@@ -1,8 +1,7 @@
-﻿# IF1004 - Seminários em Sistemas de Informação 3
+﻿# Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
 IN0980 - Tópicos Avançados em Engenharia de Software 3
-
-Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
+IF1004 - Seminários em Sistemas de Informação 3
 
 ![IF1004](/devops-icon.png)
 
