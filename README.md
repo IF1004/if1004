@@ -238,7 +238,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Nov-05 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
 | Nov-07 | [Moving into the Future & The Future of DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book) |            | |
 | Nov-12 | Read Architectural Design Decisions Papers | [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf) |  |
-| Nov-14 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
+| Nov-14 | Presentation and project  |            |[PROJECT](project.md) |
 | Nov-19 |  |            | |
 | Nov-21 |  |            | |
 | Nov-26 |  |            | |
