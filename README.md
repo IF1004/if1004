@@ -11,7 +11,6 @@ Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 ### Instrutores
 
 * **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
-* **Teaching Assistant** José Fernando Santos de Carvalho, _Fish_, ([jfsc@cin.ufpe.br](mailto:jfsc@cin.ufpe.br))
 
 ### Local
 
