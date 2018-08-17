@@ -135,6 +135,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Research Trends
 
 * G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
+* Pilar Rodríguez, Alireza Haghighatkhah, Lucy Ellen Lwakatare, Susanna Teppola, Tanja Suomalainen, Juho Eskeli, Teemu Karvonen, Pasi Kuvaja, June M. Verner, Markku Oivo. [Continuous deployment of software intensive products and services: A systematic mapping study](http://www.sciencedirect.com/science/article/pii/S0164121215002812). In: Journal of Systems and Software, Volume 123, 2017, Pages 263-291, ISSN 0164-1212. doi: 10.1016/j.jss.2015.12.015.
+* Jaemyoun Lee and Kyungtae Kang. 2017. [Poster: A Lightweight Live Migration Platform with Container-based Virtualization for System Resilience](https://doi.org/10.1145/3081333.3089302). In Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '17). ACM, New York, NY, USA, 158-158. DOI: 10.1145/3081333.3089302.
 * [How does Docker affect energy consumption? Evaluating workloads in and out of Docker containers](https://arxiv.org/abs/1705.01176)
 * M. Kassab, J. F. DeFranco and P. A. Laplante, "[Software Testing: The State of the Practice](http://ieeexplore.ieee.org/document/8048665/)," in IEEE Software, vol. 34, no. 5, pp. 46-52, 2017. doi: 10.1109/MS.2017.3571582
 * R. Valerdi, "[Why Software Is Like Baseball](http://ieeexplore.ieee.org/document/8048622/)," in IEEE Software, vol. 34, no. 5, pp. 7-9, 2017. doi: 10.1109/MS.2017.3571583
@@ -143,6 +145,11 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[The Human Factor](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
 * K. Carter, "[Francois Raynaud on DevSecOps](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
 * Y. Zhao, A. Serebrenik, Y. Zhou, V. Filkov and B. Vasilescu, "[The impact of continuous integration on other software development practices: A large-scale empirical study](http://ieeexplore.ieee.org/document/8115619/)," 2017 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE), Urbana, IL, 2017, pp. 60-71.
+* Nane Kratzke, Peter-Christian Quint. [Understanding cloud-native applications after 10 years of cloud computing - A systematic mapping study](http://www.sciencedirect.com/science/article/pii/S0164121217300018). Journal of Systems and Software, Volume 126, 2017, Pages 1-16, ISSN 0164-1212. doi: 10.1016/j.jss.2017.01.001.
+* M. Ficco, C. Esposito, H. Chang and K. R. Choo, "[Live Migration in Emerging Cloud Paradigms](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7478577&isnumber=7478494)," in IEEE Cloud Computing, vol. 3, no. 2, pp. 12-19, Mar.-Apr. 2016. doi: 10.1109/MCC.2016.48
+* Brendan Burns, Brian Grant, David Oppenheimer, Eric Brewer, John Wilkes. [Borg, Omega, and Kubernetes](https://cacm.acm.org/magazines/2016/5/201605-borg-omega-and-kubernetes/fulltext). Communications of the ACM, May 2016, Vol. 59 No. 5, Pages 50-57. doi: 10.1145/2890784.
+* Sergei Arnautov, Bohdan Trach, Franz Gregor, Thomas Knauth, Andr ́e Martin, Christian Priebe, Joshua Lind, Divya Muthukumaran, Dan O’Keeffe, Mark Still- well, David Goltzsche, David M. Eyers, Ru ̈diger Kapitza, Peter R. Pietzuch, and Christof Fetzer. [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov). In 12th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2016, Savan- nah, GA, USA, November 2-4, 2016., pages 689–703, 2016.
+* C. Pahl, "[Containerization and the PaaS Cloud](https://doi.org/10.1109/MCC.2015.51)," in IEEE Cloud Computing, vol. 2, no. 3, pp. 24-31, May-June 2015. doi: 10.1109/MCC.2015.51
 
 ### Objetivos
 
