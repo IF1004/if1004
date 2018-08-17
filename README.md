@@ -1,9 +1,5 @@
 ﻿# Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis
 
-IN0980 - Tópicos Avançados em Engenharia de Software 3
-
-IF1004 - Seminários em Sistemas de Informação 3
-
 ![IF1004](/devops-icon.png)
 
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
@@ -11,6 +7,11 @@ IF1004 - Seminários em Sistemas de Informação 3
 ### Instrutores
 
 * **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+
+### Disciplinas
+
+* Pós-Graduação: IN0980 - Tópicos Avançados em Engenharia de Software 3
+* Graduação: IF1004 - Seminários em Sistemas de Informação 3
 
 ### Local
 
