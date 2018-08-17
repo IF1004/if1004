@@ -205,37 +205,33 @@ Para participar deste curso é desejável que os participantes tenham:
 | Classes       | Topics                      | Resources | Assignments |
 |:-------------:|-----------------------------|:---------:|:-----------:|
 | Aug-13   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-01.pdf) |  [Paper-01](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading01.pdf) & [Post-01](https://www.techrepublic.com/article/is-devops-driving-enterprise-cloud-adoption-or-vice-versa/) | [HW1](https://github.com/IF1004/if1004/blob/master/HW/hw1.md) |
-| Aug-15   | [Background: What is DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-02.pdf) (Chapter 1 from Len Bass' book)| [Paper-02](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/IF1004/if1004/blob/master/HW/hw2.md) |
-| Aug-20   | [Background: The Cloud as a Platform](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book)| [Suggestion](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading03.pdf) |
-| Aug-22   | [Background: Operations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book)| [Paper-04](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/IF1004/if1004/blob/master/HW/hw3.md) |
-| Aug-27 | [The Deployment Pipeline: Overall Architecture](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-05.pdf) (Chapter 4 from Len Bass' book)|            | |
-| Aug-29 | [The Deployment Pipeline: Building and Testing](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-06b.pdf) (Chapter 5 from Len Bass' book)|            | [HW4](https://github.com/IF1004/if1004/blob/master/HW/hw4.md)|
-| Sep-03 | [The Deployment Pipeline: Deployment](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-07.pdf) (Chapter 6 from Len Bass' book)|            | [HW12](https://github.com/IF1004/if1004/blob/master/HW/hw12.md)|
-| Sep-05 | [Containerizing with Docker](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b.pdf)| [Docker CheatSheet](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b-Docker-CheatSheet-08.09.2016-0.pdf) | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md)|
-| Aug-29 | [DevOps and Architectural implications: Scalability](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-06a.pdf) | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/IF1004/if1004/blob/master/HW/hw5.md)|
-| Sep-03 | Seminars |            | |
-| Sep-05 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
-| Sep-10 | [Deploy and Containers](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-09.pdf)| ||
-| Sep-12 | Deploy and Containers| [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/IF1004/if1004/blob/master/HW/hw7.md)|
-| Sep-17 | Deploy and Containers| [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/docker-exercises-until18.pdf)           | |
-| Sep-19 | Deploy and Containers| [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/docker-exercises-until19.pdf)           | |
-| Sep-24 | [Monitoring](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-10.pdf) | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Sep-26 | Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-01 | Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-03 | Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-08 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-02](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/IF1004/if1004/blob/master/HW/hw8.md) |
-| Oct-10 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-03](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/IF1004/if1004/blob/master/HW/hw9.md) |
-| Oct-15 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
-| Oct-17 | [Moving into the Future & The Future of DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
-| Oct-22 | [Introduction to Configuration Management](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-21.pdf) |           | |
-| Oct-24 | Introduction to Configuration Management |           | [HW11](https://github.com/IF1004/if1004/blob/master/HW/hw11.md) |
-| Oct-29 | Configuration Management HW11 |            | [HW11](https://github.com/IF1004/if1004/blob/master/HW/hw11.md) |
-| Oct-31 | Configuration Management HW11 |            | [HW11](https://github.com/IF1004/if1004/blob/master/HW/hw11.md) |
-| Nov-05 | Read Architectural Design Decisions Papers| [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf)|  |
-| Nov-07 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
-| Nov-12 |  |            | |
-| Nov-14 |  |            | |
-| Nov-19 |  |            | |
+| Aug-15   | [Background: What is DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-02.pdf) (Chapter 1 from Len Bass' book) | [Paper-02](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/IF1004/if1004/blob/master/HW/hw2.md) |
+| Aug-20   | [Background: The Cloud as a Platform](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book) | [Suggestion](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading03.pdf) |
+| Aug-22   | [Background: Operations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book) | [Paper-04](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/IF1004/if1004/blob/master/HW/hw3.md) |
+| Aug-27 | [The Deployment Pipeline: Overall Architecture](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-05.pdf) (Chapter 4 from Len Bass' book) |            | |
+| Aug-29 | [The Deployment Pipeline: Building and Testing](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-06b.pdf) (Chapter 5 from Len Bass' book) |            | [HW4](https://github.com/IF1004/if1004/blob/master/HW/hw4.md) |
+| Sep-03 | [The Deployment Pipeline: Deployment](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-07.pdf) (Chapter 6 from Len Bass' book) |            | [HW12](https://github.com/IF1004/if1004/blob/master/HW/hw12.md) |
+| Sep-05 | [Containerizing with Docker](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b.pdf) | [Docker CheatSheet](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b-Docker-CheatSheet-08.09.2016-0.pdf) | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
+| Sep-10 | Docker Fundamentals (exercises 1-18) |  | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
+| Sep-12 | Docker Fundamentals (exercises 1-18) |  | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
+| Sep-17 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
+| Sep-19 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
+| Sep-24 | Crosscutting Concerns: Monitoring |            | |
+| Sep-26 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-01 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-08 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-10 | Crosscutting Concerns: Security and Security Audits |            | |
+| Oct-15 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
+| Oct-17 | Managing Dockerized Microservices with Mesos and Marathon 1/2 |            | |
+| Oct-22 | Managing Dockerized Microservices with Mesos and Marathon 2/2 |            | |
+| Oct-24 | Introduction to Kubernetes 1/2 |            | |
+| Oct-29 | Introduction to Kubernetes 2/2 |            | |
+| Oct-31 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-02](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/IF1004/if1004/blob/master/HW/hw8.md) |
+| Nov-05 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-03](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/IF1004/if1004/blob/master/HW/hw9.md) |
+| Nov-07 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
+| Nov-12 | [Moving into the Future & The Future of DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book) |            | |
+| Nov-14 | Read Architectural Design Decisions Papers | [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf) |  |
+| Nov-19 | Presentation and project  |            |[PROJECT](https://github.com/jfsc/SOA-Monolith) |
 | Nov-21 |  |            | |
 | Nov-26 |  |            | |
 | Nov-28 |  |            | |
