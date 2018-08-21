@@ -228,7 +228,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Oct-01 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
 | Oct-03 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
 | Oct-08 | Crosscutting Concerns: Security and Security Audits (Chapter 8 from Len Bass' book) |            | |
-| Oct-10 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
+| Oct-10 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-11.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
 | Oct-15 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
 | Oct-17 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
 | Oct-22 | [Introduction to Kubernetes 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
