@@ -66,6 +66,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
   * [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 * Docker
+  * [Docker Commands — The Ultimate Cheat Sheet](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)
   * [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
   * [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
   * [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
@@ -218,7 +219,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | Aug-27 | [The Deployment Pipeline: Overall Architecture](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-05.pdf) (Chapter 4 from Len Bass' book) |            | |
 | Aug-29 | [The Deployment Pipeline: Building and Testing](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-06b.pdf) (Chapter 5 from Len Bass' book) |            | [HW4](https://github.com/IF1004/if1004/blob/master/HW/hw4.md) |
 | Sep-03 | [The Deployment Pipeline: Deployment](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-07.pdf) (Chapter 6 from Len Bass' book) |            | [HW12](https://github.com/IF1004/if1004/blob/master/HW/hw12.md) |
-| Sep-05 | [Containerizing with Docker](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b.pdf) | [Docker CheatSheet](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b-Docker-CheatSheet-08.09.2016-0.pdf) | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
+| Sep-05 | [Containerizing with Docker](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b.pdf) | [Docker CheatSheet](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-08b-Docker-CheatSheet-08.09.2016-0.pdf) <br><br> [Docker Commands — The Ultimate Cheat Sheet](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)| [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
 | Sep-10 | Docker Fundamentals (exercises 1-18) |  | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
 | Sep-12 | Docker Fundamentals (exercises 1-18) |  | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
 | Sep-17 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
