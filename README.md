@@ -60,7 +60,9 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Continuous Integration, Deployment or Delivery
   * [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
   * [Continous Delivery](http://www.continuousdelivery.com)
+  * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
 * Culture, Methods, Processes and Paradigms
+  * [DevOps Team Roles And Responsibilities](https://hackernoon.com/devops-team-roles-and-responsibilities-6571cfb56843)
   * [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
   * [Why companies need a container strategy now](https://hackernoon.com/why-companies-need-a-container-strategy-now-a85a4f693d6c)
   * [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
@@ -68,6 +70,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Docker
   * [Docker Commands — The Ultimate Cheat Sheet](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)
   * [Docker Tutorial Series Part 1: Images, Layers and Dockerfile](http://blog.adityadixit.me/docker-tutorial-series-part-1.html)
+  * [Docker Tutorial Series Part 2: Microservice Architecture](http://blog.adityadixit.me/docker-tutorial-series-part-2.html)
   * [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
   * [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
   * [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
