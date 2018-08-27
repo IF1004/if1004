@@ -80,6 +80,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Taking Docker to Production: What You Need to Know and Decide](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt), Bret Fisher: Independent Docker and DevOps Consultant, DockerCon Europe 2017
   * [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
   * [Rodando aplicações GUI em Docker (Youtube)](https://youtu.be/uQqFU5yq7_A)
+  * [8 Tips for Containerizing Django Apps](https://hackernoon.com/8-tips-for-containerizing-django-apps-5340647632a4)
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
