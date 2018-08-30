@@ -62,6 +62,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Continous Delivery](http://www.continuousdelivery.com)
   * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
 * Culture, Methods, Processes and Paradigms
+  * [Is DevOps leaving developers behind?](https://hackernoon.com/is-devops-leaving-developers-behind-3a40e5dd99fc)
   * [DevOps Team Roles And Responsibilities](https://hackernoon.com/devops-team-roles-and-responsibilities-6571cfb56843)
   * [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
   * [Why companies need a container strategy now](https://hackernoon.com/why-companies-need-a-container-strategy-now-a85a4f693d6c)
