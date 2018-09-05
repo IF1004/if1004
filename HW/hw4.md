@@ -12,7 +12,7 @@ Reading the [article of Paul Hammant](https://dzone.com/articles/googles-scaled-
 
 ## Heavily baked and lightly baked images
 
-Reading this [article](peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/), explain, in your words, how are the factors that I should consider to decide between heavily baked and lightly baked images.
+Reading this [article](http://peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/), explain, in your words, how are the factors that I should consider to decide between heavily baked and lightly baked images.
 
 ## Submit
 
