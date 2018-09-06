@@ -15,6 +15,7 @@ vale ressaltar que o projeto tem **caráter puramente acadêmico e educacional**
 1. Especificação e construção de um serviço/mecanismo de apoio a um pipeline de Integração e Implantação Contínua para aplicativos para dispositivos móveis.
 1. Especificação e construção de um serviço/mecanismo de apoio a um pipeline de Integração e Implantação Contínua para aplicações de Internet das Coisas.
 1. Especificação e construção de um serviço/mecanismo de apoio a um pipeline de Integração e Implantação Contínua para aplicações no contexto de Computação Ubíqua.
+1. Especificação e construção de um serviço/mecanismo de apoio a um pipeline de Integração e Implantação Contínua para aplicações com arquitetura de microsserviços.
 
 ## 2017.2
 
