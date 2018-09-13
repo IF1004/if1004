@@ -69,6 +69,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
   * [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 * Docker
+  * [The Future of Docker Swarm](https://www.bretfisher.com/the-future-of-docker-swarm/), Sep 06, 2018
   * [Docker Commands — The Ultimate Cheat Sheet](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)
   * [Docker Tutorial Series Part 1: Images, Layers and Dockerfile](http://blog.adityadixit.me/docker-tutorial-series-part-1.html)
   * [Docker Tutorial Series Part 2: Microservice Architecture](http://blog.adityadixit.me/docker-tutorial-series-part-2.html)
