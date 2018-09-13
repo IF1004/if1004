@@ -130,6 +130,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
+* [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
 * [Forced Evolution: Shopify's Journey to Kubernetes](https://qconnewyork.com/ny2018/ny2018/presentation/container-and-orchestration-presentation-3.html), June 25-26, 2018
 * [The Secret to Amazons Success Internal APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), Jan 12, 2012
 * [SOA done right: the Amazon strategy](http://www.zdnet.com/blog/storage/soa-done-right-the-amazon-strategy/152), Jun 26, 2007
