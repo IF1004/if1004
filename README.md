@@ -86,6 +86,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
+  * [Como Criar um Cluster Kubernetes 1.10 Usando Kubeadm no CentOS 7](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-10-usando-kubeadm-no-centos-7-pt)
+  * [Como Criar um Cluster Kubernetes 1.11 Usando Kubeadm no Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-11-usando-kubeadm-no-ubuntu-18-04-pt)
   * [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
   * [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
   * [Criando um cluster simples em cloud com o kubeadm](https://churrops.io/2018/06/19/kubernetes-criando-um-cluster-simples-em-cloud-com-o-kubeadm/)
