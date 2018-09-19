@@ -148,6 +148,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+* Bass, L. (2017). The Software Architect and DevOps. IEEE Software, 35(1), 8–10. https://doi.org/10.1109/MS.2017.4541051
 * G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 * Pilar Rodríguez, Alireza Haghighatkhah, Lucy Ellen Lwakatare, Susanna Teppola, Tanja Suomalainen, Juho Eskeli, Teemu Karvonen, Pasi Kuvaja, June M. Verner, Markku Oivo. [Continuous deployment of software intensive products and services: A systematic mapping study](http://www.sciencedirect.com/science/article/pii/S0164121215002812). In: Journal of Systems and Software, Volume 123, 2017, Pages 263-291, ISSN 0164-1212. doi: 10.1016/j.jss.2015.12.015.
 * Jaemyoun Lee and Kyungtae Kang. 2017. [Poster: A Lightweight Live Migration Platform with Container-based Virtualization for System Resilience](https://doi.org/10.1145/3081333.3089302). In Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '17). ACM, New York, NY, USA, 158-158. DOI: 10.1145/3081333.3089302.
