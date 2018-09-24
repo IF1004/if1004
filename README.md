@@ -238,10 +238,10 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-12 | Docker Fundamentals (exercises 1-18) |  | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
 | Sep-17 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
 | Sep-19 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
-| Sep-24 | Crosscutting Concerns: Monitoring (Chapter 7 from Len Bass' book) |            | |
-| Sep-26 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-01 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-03 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-24 | [Crosscutting Concerns: Monitoring (Chapter 7 from Len Bass' book)](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-09.pdf) |            | |
+| Sep-26 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/HW/monitoring-exercises.txt)           | |
+| Oct-01 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/HW/monitoring-exercises.txt)           | |
+| Oct-03 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/HW/monitoring-exercises.txt)           | |
 | Oct-08 | Crosscutting Concerns: Security and Security Audits (Chapter 8 from Len Bass' book) |            | |
 | Oct-10 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-11.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
 | Oct-15 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
