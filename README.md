@@ -57,6 +57,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Cloud Computing and other Technologies
   * [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
   * [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
+  * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 * Continuous Integration, Deployment or Delivery
   * [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
   * [Continous Delivery](http://www.continuousdelivery.com)
@@ -138,6 +139,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Business Cases
 
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
+* [DevOps in Financial Services: Benefits, Myths, Case studies](https://itsvit.com/blog/devops-financial-services/), Sep 11, 2018
 * [Forced Evolution: Shopify's Journey to Kubernetes](https://qconnewyork.com/ny2018/ny2018/presentation/container-and-orchestration-presentation-3.html), June 25-26, 2018
 * [The Secret to Amazons Success Internal APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), Jan 12, 2012
 * [SOA done right: the Amazon strategy](http://www.zdnet.com/blog/storage/soa-done-right-the-amazon-strategy/152), Jun 26, 2007
