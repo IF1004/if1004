@@ -138,6 +138,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
+* [DevOps in Healthcare: Benefits & Case Studies](https://itsvit.com/blog/devops-healthcare-benefits-case-studies/), Sep 17, 2018.
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
 * [DevOps in Financial Services: Benefits, Myths, Case studies](https://itsvit.com/blog/devops-financial-services/), Sep 11, 2018
 * [Forced Evolution: Shopify's Journey to Kubernetes](https://qconnewyork.com/ny2018/ny2018/presentation/container-and-orchestration-presentation-3.html), June 25-26, 2018
