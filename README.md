@@ -246,18 +246,18 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-24 | [Crosscutting Concerns: Monitoring (Chapter 7 from Len Bass' book)](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-09.pdf) |            | |
 | Sep-26 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/HW/monitoring-exercises.txt)           | |
 | Oct-01 | [Crosscutting Concerns: Security and Security Audits](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-10b.pdf) (Chapter 8 from Len Bass' book) |            | |
-| Oct-03 | [Crosscutting Concerns: Security and Security Audits](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-10b.pdf) (Chapter 8 from Len Bass' book) |            | |
-| Oct-08 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-11.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
-| Oct-10 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
-| Oct-15 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
-| Oct-17 | [Introduction to Kubernetes 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
-| Oct-22 | [Introduction to Kubernetes 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
-| Oct-24 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-02](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/IF1004/if1004/blob/master/HW/hw8.md) |
-| Oct-29 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-03](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/IF1004/if1004/blob/master/HW/hw9.md) |
-| Oct-31 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
-| Nov-05 | [Moving into the Future & The Future of DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book) |            | |
-| Nov-07 | Read Architectural Design Decisions Papers | [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf) |  |
-| Nov-12 | Presentation and project  |            |[PROJECT](project.md) |
+| Oct-03 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-11.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
+| Oct-08 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
+| Oct-10 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
+| Oct-15 | [Introduction to Kubernetes 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
+| Oct-17 | [Introduction to Kubernetes 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
+| Oct-22 | Presentation and project  |            |[PROJECT](project.md) |
+| Oct-24 | Read Architectural Design Decisions Papers | [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf) |  |
+| Oct-29 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-02](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/IF1004/if1004/blob/master/HW/hw8.md) |
+| Oct-31 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-03](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/IF1004/if1004/blob/master/HW/hw9.md) |
+| Nov-05 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
+| Nov-07 | [Moving into the Future & The Future of DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book) |            | |
+| Nov-12 |  |            | |  
 | Nov-14 |  |            | | 
 | Nov-19 |  |            | |
 | Nov-21 |  |            | |
