@@ -3,7 +3,15 @@
 ## 2018.2
 Neste semestre a temática do projeto deve tratar de algum(ns) aspecto(s) do desenvolvimento de uma aplicação, serviço ou solução de apoio ao paradigma DevOps, ou da Engenharia de Software Contínua, no ciclo de vida de software.
 
-vale ressaltar que o projeto tem **caráter puramente acadêmico e educacional**.
+Vale ressaltar que o projeto tem **caráter puramente acadêmico e educacional**.
+
+Para a estruturacao do seu projeto, leve em consideracao a utilizacao da abordagem [**Goal - Question - Metric**](https://en.wikipedia.org/wiki/GQM).
+
+Maiores informaçoes sobre **GQM** podem ser obtidas nos links:
+
+* [AGILE METRICS: A GQM APPROACH](https://www.leadingagile.com/2017/05/agile-metrics-gqm-approach/)
+* [The Goal Question Metric Approach](https://github.com/IF1004/if1004/blob/master/GQM.pdf)
+* [Goal-Question-Metric (GQM), prof. Eduardo Figueiredo (DCC/ICEx/UFMG)](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/lectures/goal-question-metric_v01.pdf)
 
 ### Sugestões de temas
 

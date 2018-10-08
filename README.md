@@ -57,11 +57,14 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Cloud Computing and other Technologies
   * [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
   * [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
+  * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 * Continuous Integration, Deployment or Delivery
   * [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
   * [Continous Delivery](http://www.continuousdelivery.com)
   * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
 * Culture, Methods, Processes and Paradigms
+  * [10deploys (Podcast) - Site Reliability Engineering no Google](https://soundcloud.com/10deploys/019-site-reliability-engineering-google)
+  * [10deploys (Podcast) - DevOps e Continuous Delivery na Leroy Merlin](https://soundcloud.com/10deploys/022-devops-continuous-delivery-leroy-merlin)
   * [Is DevOps leaving developers behind?](https://hackernoon.com/is-devops-leaving-developers-behind-3a40e5dd99fc)
   * [DevOps Team Roles And Responsibilities](https://hackernoon.com/devops-team-roles-and-responsibilities-6571cfb56843)
   * [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
@@ -135,7 +138,9 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
+* [DevOps in Healthcare: Benefits & Case Studies](https://itsvit.com/blog/devops-healthcare-benefits-case-studies/), Sep 17, 2018.
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
+* [DevOps in Financial Services: Benefits, Myths, Case studies](https://itsvit.com/blog/devops-financial-services/), Sep 11, 2018
 * [Forced Evolution: Shopify's Journey to Kubernetes](https://qconnewyork.com/ny2018/ny2018/presentation/container-and-orchestration-presentation-3.html), June 25-26, 2018
 * [The Secret to Amazons Success Internal APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), Jan 12, 2012
 * [SOA done right: the Amazon strategy](http://www.zdnet.com/blog/storage/soa-done-right-the-amazon-strategy/152), Jun 26, 2007
@@ -238,22 +243,22 @@ Para participar deste curso é desejável que os participantes tenham:
 | Sep-12 | Docker Fundamentals (exercises 1-18) |  | [HW13](https://github.com/IF1004/if1004/blob/master/HW/hw13.md) |
 | Sep-17 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
 | Sep-19 | Seminar "The Deployment Pipeline: Scalability Issues" | [Paper-05](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading05.pdf) and [Paper-06](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading06.pdf) |            |
-| Sep-24 | Crosscutting Concerns: Monitoring (Chapter 7 from Len Bass' book) |            | |
-| Sep-26 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-01 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-03 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/lectures/monitoring-exercises.txt)           | |
-| Oct-08 | Crosscutting Concerns: Security and Security Audits (Chapter 8 from Len Bass' book) |            | |
-| Oct-10 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-11.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
-| Oct-15 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
-| Oct-17 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
-| Oct-22 | [Introduction to Kubernetes 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
-| Oct-24 | [Introduction to Kubernetes 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
+| Sep-24 | [Crosscutting Concerns: Monitoring (Chapter 7 from Len Bass' book)](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-09.pdf) |            | |
+| Sep-26 | Crosscutting Concerns: Monitoring | [Exercises](https://github.com/IF1004/if1004/blob/master/HW/monitoring-exercises.txt)           | |
+| Oct-01 | [Crosscutting Concerns: Security and Security Audits](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-10b.pdf) (Chapter 8 from Len Bass' book) |            | |
+| Oct-03 | [Other \*Ilities](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-11.pdf) (Chapter 9 from Len Bass' book) | [Paper-07](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/IF1004/if1004/blob/master/HW/hw6.md) |
+| Oct-08 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
+| Oct-10 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-12.pdf) |            | |
+| Oct-15 | [Introduction to Kubernetes 1/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
+| Oct-17 | [Introduction to Kubernetes 2/2](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-13.pdf) |            | |
+| Oct-22 | Presentation and project  |            |[PROJECT](project.md) |
+| Oct-24 | Read Architectural Design Decisions Papers | [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf) |  |
 | Oct-29 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-02](https://hackernoon.com/how-to-design-a-successful-microservices-engineering-culture-62dda4c39e6) | [HW8](https://github.com/IF1004/if1004/blob/master/HW/hw8.md) |
 | Oct-31 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) | [Post-03](https://hackernoon.com/why-microservices-fail-6cdc006f9540) | [HW9](https://github.com/IF1004/if1004/blob/master/HW/hw9.md) |
 | Nov-05 | [Business Considerations](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/IF1004/if1004/blob/master/HW/hw10.md) |
 | Nov-07 | [Moving into the Future & The Future of DevOps](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book) |            | |
-| Nov-12 | Read Architectural Design Decisions Papers | [Paper-8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8680&rep=rep1&type=pdf) & [Paper-9](http://arminb.me/microservices/report.pdf) |  |
-| Nov-14 | Presentation and project  |            |[PROJECT](project.md) |
+| Nov-12 |  |            | |  
+| Nov-14 |  |            | | 
 | Nov-19 |  |            | |
 | Nov-21 |  |            | |
 | Nov-26 |  |            | |
