@@ -136,6 +136,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
 * [Containers Patterns: There are a thousand ways to use containers](https://l0rd.github.io/containerspatterns/#1)
 * [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
+* [Docker, FROM scratch - Aaron Powell](https://www.youtube.com/watch?v=i7yoXqlg48M) [YouTube], NDC Conferences, Publicado em 25 de set de 2017
 
 ### Business Cases
 
