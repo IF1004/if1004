@@ -63,6 +63,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Continous Delivery](http://www.continuousdelivery.com)
   * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
 * Culture, Methods, Processes and Paradigms
+  * [Why DevOps and Security Should Go Hand in Hand?](https://hackernoon.com/why-devops-and-security-should-go-hand-in-hand-2634fd50cf2c)
   * [SRE vs. DevOps — The Dilemma](https://hackernoon.com/sre-vs-devops-the-dilemma-f7054714525c)
   * [10deploys (Podcast) - Site Reliability Engineering no Google](https://soundcloud.com/10deploys/019-site-reliability-engineering-google)
   * [10deploys (Podcast) - DevOps e Continuous Delivery na Leroy Merlin](https://soundcloud.com/10deploys/022-devops-continuous-delivery-leroy-merlin)
