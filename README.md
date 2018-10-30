@@ -35,17 +35,19 @@ As modernas organizações de desenvolvimento de software exigem equipes inteira
 
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
-* [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
-* [Site Reliability Engineering](https://landing.google.com/sre/book.html): How Google runs Production Systems. Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy.
-* [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)  
+* [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845), by Len Bass, Ingo Weber, Liming Zhu. Addison-Wesley Professional; 1 edition (May 28, 2015).
+* [Site Reliability Engineering](https://landing.google.com/sre/book.html): How Google runs Production Systems. Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy. O'Reilly Media, Incorporated, 2016.
+* [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops), by Danilo Sato. Casa do Código, 2013. 
 
 ### Bibliografia Complementar
 
+* [The Site Reliability Workbook](https://books.google.com.br/books?id=fElmDwAAQBAJ&redir_esc=y), Edited by Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne. O'Reilly Media, Inc., 2018.
 * [The evolution of DevOps](https://www.oreilly.com/ideas/the-evolution-of-devops?imm_mid=0f5f78&cmp=em-webops-na-na-vlny17_nurture_em9_evolution_devops)
 * [Continous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 * [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
 * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 * [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android)
+* [Continuous Delivery with Docker and Jenkins](https://www.packtpub.com/networking-and-servers/continuous-delivery-docker-and-jenkins), by Rafał Leszko. Packt Publishing, 2017. 
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
@@ -59,6 +61,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 * Continuous Integration, Deployment or Delivery
+  * [Practical DevOps](https://www.packtpub.com/networking-and-servers/practical-devops), by Joakim Verona. Packt Publishing Limited, 2016.
+  * [Implementing DevOps on AWS](https://www.packtpub.com/virtualization-and-cloud/implementing-devops-aws), by Veselin Kantsev. Packt Publishing Limited, 2017.
   * [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
   * [Continous Delivery](http://www.continuousdelivery.com)
   * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
@@ -74,6 +78,11 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
   * [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 * Docker
+  * [What You Need to Know about Docker](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-docker), by Scott Gallagher. Packt Publishing Limited.
+  * [Docker Cookbook](https://www.packtpub.com/virtualization-and-cloud/docker-cookbook), by Neependra Khare. Packt Publishing Limited, 2015.
+  * [Docker on Windows](https://www.packtpub.com/virtualization-and-cloud/docker-windows), by Elton Stoneman. Packt Publishing Limited, 2017.
+  * [Learning Docker - Second Edition](https://www.packtpub.com/networking-and-servers/learning-docker-second-edition), by Jeeva S. Chelladhurai, Vinod Singh, Pethuru Raj. Packt Publishing Limited, 2017.
+  * [Mastering Docker - Second Edition](https://www.packtpub.com/virtualization-and-cloud/mastering-docker-second-edition), by Russ McKendrick, Scott Gallagher. Packt Publishing Limited, 2017.
   * [Como Construir Imagens Docker e Hospedar um Repositório de Imagens Docker com o GitLab](https://www.digitalocean.com/community/tutorials/como-construir-imagens-docker-e-hospedar-um-repositorio-de-imagens-docker-com-o-gitlab-pt)
   * [10 Free Courses to Learn Docker for Programmers and DevOps Engineers](https://hackernoon.com/10-free-courses-to-learn-docker-for-programmers-and-devops-engineers-7ff2781fd6e0)
   * [The Future of Docker Swarm](https://www.bretfisher.com/the-future-of-docker-swarm/), Sep 06, 2018
@@ -93,6 +102,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
+  * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook), by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu. Packt Publishing Limited, 2017.
+  * [Mastering Kubernetes], by Gigi Sayfan. Packt Publishing Limited, 2017.
   * [Como Criar um Cluster Kubernetes 1.10 Usando Kubeadm no CentOS 7](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-10-usando-kubeadm-no-centos-7-pt)
   * [Como Criar um Cluster Kubernetes 1.11 Usando Kubeadm no Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-11-usando-kubeadm-no-ubuntu-18-04-pt)
   * [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
