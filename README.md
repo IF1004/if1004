@@ -78,6 +78,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Demystified: 5 Myths of DevOps Services](https://hackernoon.com/demystified-5-myths-of-devops-services-6eda327c3a86)
   * [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 * Docker
+  * [Docker In A Nutshell](https://hackernoon.com/docker-in-a-nutshell-6b3985a58d68)
   * [What You Need to Know about Docker](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-docker), by Scott Gallagher. Packt Publishing Limited.
   * [Docker Cookbook](https://www.packtpub.com/virtualization-and-cloud/docker-cookbook), by Neependra Khare. Packt Publishing Limited, 2015.
   * [Docker on Windows](https://www.packtpub.com/virtualization-and-cloud/docker-windows), by Elton Stoneman. Packt Publishing Limited, 2017.
