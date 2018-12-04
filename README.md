@@ -103,6 +103,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
+  * [Kubernetes vs Docker Swarm — A Comprehensive Comparison](https://hackernoon.com/kubernetes-vs-docker-swarm-a-comprehensive-comparison-73058543771e), by Harsh Binani, Dec 4, 2018.
   * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook), by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu. Packt Publishing Limited, 2017.
   * [Mastering Kubernetes], by Gigi Sayfan. Packt Publishing Limited, 2017.
   * [Como Criar um Cluster Kubernetes 1.10 Usando Kubeadm no CentOS 7](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-10-usando-kubeadm-no-centos-7-pt)
