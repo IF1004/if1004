@@ -103,6 +103,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
+  * [Solving the Kubernetes and Storage Challenge](https://hackernoon.com/solving-the-kubernetes-and-storage-challenge-39621a7e2afa), Dec 5, 2018
   * [Kubernetes vs Docker Swarm — A Comprehensive Comparison](https://hackernoon.com/kubernetes-vs-docker-swarm-a-comprehensive-comparison-73058543771e), by Harsh Binani, Dec 4, 2018.
   * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook), by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu. Packt Publishing Limited, 2017.
   * [Mastering Kubernetes], by Gigi Sayfan. Packt Publishing Limited, 2017.
@@ -116,6 +117,9 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Rancher Sandbox](https://try.rancher.com/login)
   * [Rancher training: a general session to getting started with Docker containers and Rancher](https://register.gotowebinar.com/rt/2905734731496917249?utm_campaign=eBook%20-%20Kubernetes%20v%20Docker&utm_source=hs_automation&utm_medium=email&utm_content=54758771&_hsenc=p2ANqtz-9kMpWui_FUdYjUW3dFdoKgl02X6mO-jwfhYlqKFdw1PoaudohC7CJLxA24-vYxE-Ih1BHndYlEZBvT_WmWsdB9UVaV4Q&_hsmi=54758771)
   * [Kubernetes training: our monthly session covers Kubernetes concepts and running Kubernetes with Rancher](https://info.rancher.com/kubernetes-training?utm_campaign=eBook%20-%20Kubernetes%20v%20Docker&utm_source=hs_automation&utm_medium=email&utm_content=54758771&_hsenc=p2ANqtz-9kMpWui_FUdYjUW3dFdoKgl02X6mO-jwfhYlqKFdw1PoaudohC7CJLxA24-vYxE-Ih1BHndYlEZBvT_WmWsdB9UVaV4Q&_hsmi=54758771)
+* Serverless
+  * What is Serverless and What it Means for You [Part 1](https://platform9.com/blog/what-is-serverless-and-what-it-means-for-you-part-1/), [Part 2](https://platform9.com/blog/what-is-serverless-part-2-challenges-and-considerations-for-choosing-the-right-serverless-solution/), [Part 3](https://platform9.com/blog/what-is-serverless-part-3-kubernetes-and-serverless/), [Part 4](https://platform9.com/blog/what-is-serverless-part-4-fission-an-open-source-serverless-framework-for-kubernetes/), [Part 5](https://platform9.com/blog/what-is-serverless-part-5-reference-architectures-for-common-types-of-serverless-applications/)
+  * [Why you should consider Serverless for your startup](https://hackernoon.com/why-you-could-use-serverless-for-your-startup-79d7b0ef111a), Dec 4, 2018
 * Spring Boot
   * [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
 * Swarm
