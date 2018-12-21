@@ -61,6 +61,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 * Continuous Integration, Deployment or Delivery
+  * [DevOps101: How To Provide Infrastructure To Your Startup In 7 Easy Steps](https://hackernoon.com/devops101-how-to-provide-infrastructure-to-your-startup-in-6-easy-steps-563b53e77281), by Rafael Belchior, Dec 18
   * [Practical DevOps](https://www.packtpub.com/networking-and-servers/practical-devops), by Joakim Verona. Packt Publishing Limited, 2016.
   * [Implementing DevOps on AWS](https://www.packtpub.com/virtualization-and-cloud/implementing-devops-aws), by Veselin Kantsev. Packt Publishing Limited, 2017.
   * [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
