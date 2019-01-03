@@ -63,15 +63,15 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 * Continuous Integration, Deployment or Delivery
   * [2018 CONTAINER ADOPTION BENCHMARK SURVEY](https://github.com/IF1004/if1004/blob/master/docs/WP_Diamanti_End-User_Survey_072818.pdf), by Diamanti -- July 31, 2018
-  * [CI/CD with Angular 6 & Firebase & GitLab](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d): Automate build, test and deployment using GitLab CI/CD, by Kai Niklas, Dec 23 - 2018.
-  * [DevOps101: How To Provide Infrastructure To Your Startup In 7 Easy Steps](https://hackernoon.com/devops101-how-to-provide-infrastructure-to-your-startup-in-6-easy-steps-563b53e77281), by Rafael Belchior, Dec 18
-  * [Practical DevOps](https://www.packtpub.com/networking-and-servers/practical-devops), by Joakim Verona. Packt Publishing Limited, 2016.
-  * [Implementing DevOps on AWS](https://www.packtpub.com/virtualization-and-cloud/implementing-devops-aws), by Veselin Kantsev. Packt Publishing Limited, 2017.
+  * [CI/CD with Angular 6 & Firebase & GitLab](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d): Automate build, test and deployment using GitLab CI/CD, by Kai Niklas -- Dec 23 - 2018.
+  * [DevOps101: How To Provide Infrastructure To Your Startup In 7 Easy Steps](https://hackernoon.com/devops101-how-to-provide-infrastructure-to-your-startup-in-6-easy-steps-563b53e77281), by Rafael Belchior -- Dec 2018
+  * [Practical DevOps](https://www.packtpub.com/networking-and-servers/practical-devops), by Joakim Verona. Packt Publishing Limited -- 2016.
+  * [Implementing DevOps on AWS](https://www.packtpub.com/virtualization-and-cloud/implementing-devops-aws), by Veselin Kantsev. Packt Publishing Limited -- 2017.
   * [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
   * [Continous Delivery](http://www.continuousdelivery.com)
   * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
 * Culture, Methods, Processes and Paradigms
-  * [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb): An illustrated guide to becoming a DevOps Engineer with links to relevant courses, by javinpaul, Oct 7, 2018
+  * [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb): An illustrated guide to becoming a DevOps Engineer with links to relevant courses, by javinpaul -- Oct 7, 2018
   * [Why DevOps and Security Should Go Hand in Hand?](https://hackernoon.com/why-devops-and-security-should-go-hand-in-hand-2634fd50cf2c)
   * [SRE vs. DevOps — The Dilemma](https://hackernoon.com/sre-vs-devops-the-dilemma-f7054714525c)
   * [10deploys (Podcast) - Site Reliability Engineering no Google](https://soundcloud.com/10deploys/019-site-reliability-engineering-google)
@@ -86,13 +86,13 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Docker
   * [Docker In A Nutshell](https://hackernoon.com/docker-in-a-nutshell-6b3985a58d68)
   * [What You Need to Know about Docker](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-docker), by Scott Gallagher. Packt Publishing Limited.
-  * [Docker Cookbook](https://www.packtpub.com/virtualization-and-cloud/docker-cookbook), by Neependra Khare. Packt Publishing Limited, 2015.
-  * [Docker on Windows](https://www.packtpub.com/virtualization-and-cloud/docker-windows), by Elton Stoneman. Packt Publishing Limited, 2017.
-  * [Learning Docker - Second Edition](https://www.packtpub.com/networking-and-servers/learning-docker-second-edition), by Jeeva S. Chelladhurai, Vinod Singh, Pethuru Raj. Packt Publishing Limited, 2017.
-  * [Mastering Docker - Second Edition](https://www.packtpub.com/virtualization-and-cloud/mastering-docker-second-edition), by Russ McKendrick, Scott Gallagher. Packt Publishing Limited, 2017.
+  * [Docker Cookbook](https://www.packtpub.com/virtualization-and-cloud/docker-cookbook), by Neependra Khare. Packt Publishing Limited -- 2015.
+  * [Docker on Windows](https://www.packtpub.com/virtualization-and-cloud/docker-windows), by Elton Stoneman. Packt Publishing Limited -- 2017.
+  * [Learning Docker - Second Edition](https://www.packtpub.com/networking-and-servers/learning-docker-second-edition), by Jeeva S. Chelladhurai, Vinod Singh, Pethuru Raj. Packt Publishing Limited -- 2017.
+  * [Mastering Docker - Second Edition](https://www.packtpub.com/virtualization-and-cloud/mastering-docker-second-edition), by Russ McKendrick, Scott Gallagher. Packt Publishing Limited -- 2017.
   * [Como Construir Imagens Docker e Hospedar um Repositório de Imagens Docker com o GitLab](https://www.digitalocean.com/community/tutorials/como-construir-imagens-docker-e-hospedar-um-repositorio-de-imagens-docker-com-o-gitlab-pt)
   * [10 Free Courses to Learn Docker for Programmers and DevOps Engineers](https://hackernoon.com/10-free-courses-to-learn-docker-for-programmers-and-devops-engineers-7ff2781fd6e0)
-  * [The Future of Docker Swarm](https://www.bretfisher.com/the-future-of-docker-swarm/), Sep 06, 2018
+  * [The Future of Docker Swarm](https://www.bretfisher.com/the-future-of-docker-swarm/) -- Sep 06, 2018
   * [Docker Commands — The Ultimate Cheat Sheet](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)
   * [Docker Tutorial Series Part 1: Images, Layers and Dockerfile](http://blog.adityadixit.me/docker-tutorial-series-part-1.html)
   * [Docker Tutorial Series Part 2: Microservice Architecture](http://blog.adityadixit.me/docker-tutorial-series-part-2.html)
@@ -109,10 +109,11 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
-  * [Solving the Kubernetes and Storage Challenge](https://hackernoon.com/solving-the-kubernetes-and-storage-challenge-39621a7e2afa), Dec 5, 2018
-  * [Kubernetes vs Docker Swarm — A Comprehensive Comparison](https://hackernoon.com/kubernetes-vs-docker-swarm-a-comprehensive-comparison-73058543771e), by Harsh Binani, Dec 4, 2018.
-  * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook), by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu. Packt Publishing Limited, 2017.
-  * [Mastering Kubernetes], by Gigi Sayfan. Packt Publishing Limited, 2017.
+  * [Instalando e configurando kubernetes localmente com o minikube no Mac OSX](http://viniciusgarcia.me/devops/Instalando-e-configurando-kubernetes-localmente-com-o-minikube-no-Mac-OSX/), by Vinicius Garcia -- Jan 03, 2019
+  * [Solving the Kubernetes and Storage Challenge](https://hackernoon.com/solving-the-kubernetes-and-storage-challenge-39621a7e2afa) -- Dec 5, 2018
+  * [Kubernetes vs Docker Swarm — A Comprehensive Comparison](https://hackernoon.com/kubernetes-vs-docker-swarm-a-comprehensive-comparison-73058543771e), by Harsh Binani -- Dec 4, 2018.
+  * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook), by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu. Packt Publishing Limited -- 2017.
+  * [Mastering Kubernetes], by Gigi Sayfan. Packt Publishing Limited -- 2017.
   * [Como Criar um Cluster Kubernetes 1.10 Usando Kubeadm no CentOS 7](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-10-usando-kubeadm-no-centos-7-pt)
   * [Como Criar um Cluster Kubernetes 1.11 Usando Kubeadm no Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-criar-um-cluster-kubernetes-1-11-usando-kubeadm-no-ubuntu-18-04-pt)
   * [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
@@ -125,7 +126,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Kubernetes training: our monthly session covers Kubernetes concepts and running Kubernetes with Rancher](https://info.rancher.com/kubernetes-training?utm_campaign=eBook%20-%20Kubernetes%20v%20Docker&utm_source=hs_automation&utm_medium=email&utm_content=54758771&_hsenc=p2ANqtz-9kMpWui_FUdYjUW3dFdoKgl02X6mO-jwfhYlqKFdw1PoaudohC7CJLxA24-vYxE-Ih1BHndYlEZBvT_WmWsdB9UVaV4Q&_hsmi=54758771)
 * Serverless
   * What is Serverless and What it Means for You - [Part 1](https://platform9.com/blog/what-is-serverless-and-what-it-means-for-you-part-1/), [Part 2](https://platform9.com/blog/what-is-serverless-part-2-challenges-and-considerations-for-choosing-the-right-serverless-solution/), [Part 3](https://platform9.com/blog/what-is-serverless-part-3-kubernetes-and-serverless/), [Part 4](https://platform9.com/blog/what-is-serverless-part-4-fission-an-open-source-serverless-framework-for-kubernetes/), [Part 5](https://platform9.com/blog/what-is-serverless-part-5-reference-architectures-for-common-types-of-serverless-applications/)
-  * [Why you should consider Serverless for your startup](https://hackernoon.com/why-you-could-use-serverless-for-your-startup-79d7b0ef111a), Dec 4, 2018
+  * [Why you should consider Serverless for your startup](https://hackernoon.com/why-you-could-use-serverless-for-your-startup-79d7b0ef111a) -- Dec 4, 2018
 * Spring Boot
   * [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
 * Swarm
@@ -164,18 +165,18 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
-* [DevOps in Healthcare: Benefits & Case Studies](https://itsvit.com/blog/devops-healthcare-benefits-case-studies/), Sep 17, 2018.
-* [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
-* [DevOps in Financial Services: Benefits, Myths, Case studies](https://itsvit.com/blog/devops-financial-services/), Sep 11, 2018
-* [Forced Evolution: Shopify's Journey to Kubernetes](https://qconnewyork.com/ny2018/ny2018/presentation/container-and-orchestration-presentation-3.html), June 25-26, 2018
-* [The Secret to Amazons Success Internal APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), Jan 12, 2012
-* [SOA done right: the Amazon strategy](http://www.zdnet.com/blog/storage/soa-done-right-the-amazon-strategy/152), Jun 26, 2007
-* [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
-* [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
+* [DevOps in Healthcare: Benefits & Case Studies](https://itsvit.com/blog/devops-healthcare-benefits-case-studies/) -- Sep 17, 2018.
+* [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus -- Sep 12, 2018.
+* [DevOps in Financial Services: Benefits, Myths, Case studies](https://itsvit.com/blog/devops-financial-services/) -- Sep 11, 2018
+* [Forced Evolution: Shopify's Journey to Kubernetes](https://qconnewyork.com/ny2018/ny2018/presentation/container-and-orchestration-presentation-3.html) -- June 25-26, 2018
+* [The Secret to Amazons Success Internal APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/) -- Jan 12, 2012
+* [SOA done right: the Amazon strategy](http://www.zdnet.com/blog/storage/soa-done-right-the-amazon-strategy/152) -- Jun 26, 2007
+* [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado -- June 11th, 2014
+* [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado -- June 12th, 2014
 * [MicroServices at Netflix](http://www.slideshare.net/stonse/microservices-at-netflix), August 8, 2014
-* [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
-* [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
-* [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
+* [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4) -- Apr 4, 2016
+* [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ -- Sep 19, 2017
+* [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen -- Sep 19, 2017
 
 ### Research Trends
 
