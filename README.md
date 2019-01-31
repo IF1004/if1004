@@ -62,6 +62,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 * Continuous Integration, Deployment or Delivery
+  * **Continuous Delivery Metrics**: [Part 1: Why measure your CD process](https://www.gocd.org/2018/10/30/measure-continuous-delivery-process/), [Part 2: How often do you deploy to production?](https://www.gocd.org/2018/11/30/deployment-frequency/), [Part 3: How long does it take to get from committing code to production?](https://www.gocd.org/2019/01/14/cd-metrics-deployment-lead-time/), Aravind S.V and Suzie Prince.
   * [2018 CONTAINER ADOPTION BENCHMARK SURVEY](https://github.com/IF1004/if1004/blob/master/docs/WP_Diamanti_End-User_Survey_072818.pdf), by Diamanti -- July 31, 2018
   * [CI/CD with Angular 6 & Firebase & GitLab](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d): Automate build, test and deployment using GitLab CI/CD, by Kai Niklas -- Dec 23 - 2018.
   * [DevOps101: How To Provide Infrastructure To Your Startup In 7 Easy Steps](https://hackernoon.com/devops101-how-to-provide-infrastructure-to-your-startup-in-6-easy-steps-563b53e77281), by Rafael Belchior -- Dec 2018
