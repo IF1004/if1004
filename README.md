@@ -72,6 +72,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Continous Delivery](http://www.continuousdelivery.com)
   * [Best Jenkins alternatives. Top CI/CD Tools for your Android and iOS projects](https://hackernoon.com/top-ci-cd-tools-for-your-android-and-ios-projects-8d356b983b3b)
 * Culture, Methods, Processes and Paradigms
+  * [What Is Containerization?](https://hackernoon.com/what-is-containerization-83ae53a709a6), by Shaan RayFollow, Feb 5 - 2019.
   * [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb): An illustrated guide to becoming a DevOps Engineer with links to relevant courses, by javinpaul -- Oct 7, 2018
   * [Why DevOps and Security Should Go Hand in Hand?](https://hackernoon.com/why-devops-and-security-should-go-hand-in-hand-2634fd50cf2c)
   * [SRE vs. DevOps — The Dilemma](https://hackernoon.com/sre-vs-devops-the-dilemma-f7054714525c)
