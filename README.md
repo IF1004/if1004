@@ -21,8 +21,8 @@ Aulas práticas, quando ocorreram, serão no Lab G2.
 
 ### Edições passadas
 
-* [Semestre 2018.2](https://github.com/IF1004/if1004/tree/if1004-2018-2)
-* [Semestre 2017.2](https://github.com/IF1004/if1004/tree/if1004-2017-2)
+* [Semestre 2018.2](http://bit.ly/vcg-devops-2018-2)
+* [Semestre 2017.2](http://bit.ly/vcg-devops-2017-2)
 
 ### Comunicação
 
