@@ -88,6 +88,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
   * [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 * Docker
+  * [WTF is Docker?](http://bit.ly/2FFDyIA), A brief explanation of Docker and Docker compose in English
   * [Docker In A Nutshell](https://hackernoon.com/docker-in-a-nutshell-6b3985a58d68)
   * [What You Need to Know about Docker](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-docker), by Scott Gallagher. Packt Publishing Limited.
   * [Docker Cookbook](https://www.packtpub.com/virtualization-and-cloud/docker-cookbook), by Neependra Khare. Packt Publishing Limited -- 2015.
