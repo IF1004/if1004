@@ -114,6 +114,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
+  * [Jérôme Petazzoni - Talk about Kubernetes | ContainerWeek](https://www.youtube.com/watch?v=WkM9R9-WQCk), by Jérôme Petazzoni -- April 8, 2019.
   * [KUBECTL PARA PREGUIÇOSOS](https://churrops.io/2019/03/17/kubernetes-kubectl-para-preguicosos/), by Wellington Bastos -- March 17, 2019.
   * [Instalando e configurando kubernetes localmente com o minikube no Mac OSX](http://viniciusgarcia.me/devops/Instalando-e-configurando-kubernetes-localmente-com-o-minikube-no-Mac-OSX/), by Vinicius Garcia -- Jan 03, 2019
   * [Solving the Kubernetes and Storage Challenge](https://hackernoon.com/solving-the-kubernetes-and-storage-challenge-39621a7e2afa) -- Dec 5, 2018
