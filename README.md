@@ -58,6 +58,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Ansible
   * [Ansible: Up and Running](http://www.ansiblebook.com/)
 * Cloud Computing and other Technologies
+  * [The Future of Cloud Providers in Kubernetes](http://bit.ly/2vc8Xwk), Authors: Andrew Sy Kim (VMware), Mike Crute (AWS), Walter Fender (Google) -- April 17, 2019
   * [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
   * [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
