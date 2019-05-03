@@ -188,6 +188,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+* H. Zhu and I. Bayley, "[**If Docker is the Answer, What is the Question?**](https://doi.org/10.1109/SOSE.2018.00027)," 2018 IEEE Symposium on Service-Oriented System Engineering (SOSE), Bamberg, 2018, pp. 152-163. doi: 10.1109/SOSE.2018.00027
 * Jez Humble. 2018. **Continuous delivery sounds great, but will it work here?**. Commun. ACM 61, 4 (March 2018), 34-39. DOI: <https://doi.org/10.1145/3173553>.
 * G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[**DevOps as a Service: Pushing the Boundaries of Microservice Adoption**](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 * M. Waseem and P. Liang, "[**Microservices Architecture in DevOps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8312518&isnumber=8312505)," 2017 24th Asia-Pacific Software Engineering Conference Workshops (APSECW), Nanjing, 2017, pp. 13-14. doi: 10.1109/APSECW.2017.18.
