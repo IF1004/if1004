@@ -65,6 +65,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Public Cloud Services Comparison](http://comparecloud.in)
   * [VMs vs. Containers for Microservices](https://hackernoon.com/vms-vs-containers-for-microservices-a6f559970704), by Spruha Pandya -- Mar 19, 2019
 * Continuous Integration, Deployment or Delivery
+  * [Anti Patterns of Continuous Integration](http://bit.ly/2HuI39O), Mritunjay Dubey -- Apr 23, 2019
   * **Continuous Delivery Metrics**: [Part 1: Why measure your CD process](https://www.gocd.org/2018/10/30/measure-continuous-delivery-process/), [Part 2: How often do you deploy to production?](https://www.gocd.org/2018/11/30/deployment-frequency/), [Part 3: How long does it take to get from committing code to production?](https://www.gocd.org/2019/01/14/cd-metrics-deployment-lead-time/), Aravind S.V and Suzie Prince.
   * [2018 CONTAINER ADOPTION BENCHMARK SURVEY](https://github.com/IF1004/if1004/blob/master/docs/WP_Diamanti_End-User_Survey_072818.pdf), by Diamanti -- July 31, 2018
   * [CI/CD with Angular 6 & Firebase & GitLab](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d): Automate build, test and deployment using GitLab CI/CD, by Kai Niklas -- Dec 23 - 2018.
