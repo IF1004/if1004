@@ -153,6 +153,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+* [#5 Certificações do Docker (DCA) e Kubernetes (CKA e CKAD) | ContainerWeek](https://www.youtube.com/watch?v=RHwDdHYE8xY), by LINUXtips -- Transmitido ao vivo em 12 de abr de 2019
 * [An introduction to immutable infrastructure](https://www.oreilly.com/ideas/an-introduction-to-immutable-infrastructure)
 * [Is DevOps driving enterprise cloud adoption or vice versa?](https://www.techrepublic.com/article/is-devops-driving-enterprise-cloud-adoption-or-vice-versa/)
 * [Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
