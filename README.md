@@ -37,6 +37,7 @@ As modernas organizações de desenvolvimento de software exigem equipes inteira
 
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=pd_sim_14_31?_encoding=UTF8&pd_rd_i=1942788002&pd_rd_r=03e78ab2-8f06-407d-83a4-ae80077990fd&pd_rd_w=1mutu&pd_rd_wg=RvXXT&pf_rd_p=58ea4395-23ea-457e-ac58-e6e656a6dc32&pf_rd_r=YW4QKTS7SPJS6X13KYCJ&psc=1&refRID=YW4QKTS7SPJS6X13KYCJ), by Gene Kim, Patrick Debois, John Willis, Jez Humble. IT Revolution Press, 2016.
 * [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845), by Len Bass, Ingo Weber, Liming Zhu. Addison-Wesley Professional; 1 edition (May 28, 2015).
 * [Site Reliability Engineering](https://landing.google.com/sre/book.html): How Google runs Production Systems. Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy. O'Reilly Media, Incorporated, 2016.
 * [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops), by Danilo Sato. Casa do Código, 2013.
