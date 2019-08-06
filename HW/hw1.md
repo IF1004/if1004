@@ -8,7 +8,7 @@ This homework will prepare you for basic setup for the course.
 
 Properly setting up your Telegram profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your profile. Besides, make sure you have your first and last name as part of your profile.
 
-Telegram channel: <https://t.me/regcin>
+Telegram channel: <https://t.me/if1004>
 
 ##### Github (10)
 
