@@ -7,7 +7,8 @@
 ### Instrutores
 
 * **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
-* **Professor Colaborador** Vanilson Burégio ([vanilson@gmail.com](mailto:vanilson@gmail.com))
+* **Professor Colaborador** Vanilson Burégio ([vanilson@gmail.com](mailto:vanilson@gmail.com)), UFRPE
+* **Professor Colaborador** Rodrigo Elia Assad ([assad@usto.re](mailto:assad@usto.re)), UFRPE
 
 ### Disciplinas
 
