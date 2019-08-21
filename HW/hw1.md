@@ -45,7 +45,7 @@ In your solution, provide the content of "post-commit". Finally, take a screenca
 
 ## Concepts (20)
 
-Reading 01: C. Parnin et al., "[The Top 10 Adages in Continuous Deployment](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-2017-2-reading01.pdf)",  in IEEE Software, vol. 34, no. 3, pp. 86-95, May-Jun. 2017.
+Reading 01: C. Parnin et al., "[The Top 10 Adages in Continuous Deployment](https://github.com/IF1004/if1004/blob/master/lectures/if1004-devops-reading01.pdf)",  in IEEE Software, vol. 34, no. 3, pp. 86-95, May-Jun. 2017.
 doi: 10.1109/MS.2017.86
 
 * In your own words, explain the difference between continuous integration, continuous delivery, and continuous deployment.
