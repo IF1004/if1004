@@ -247,6 +247,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
+* [Spotify: An Early Adopter of Containers, Spotify Is Migrating from Homegrown Orchestration to Kubernetes](https://kubernetes.io/case-studies/spotify/)
 * [DevOps in Healthcare: Benefits & Case Studies](https://itsvit.com/blog/devops-healthcare-benefits-case-studies/) -- Sep 17, 2018.
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus -- Sep 12, 2018.
 * [DevOps in Financial Services: Benefits, Myths, Case studies](https://itsvit.com/blog/devops-financial-services/) -- Sep 11, 2018
