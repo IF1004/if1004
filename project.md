@@ -1,6 +1,6 @@
 # Course Project Specification
 
-## 2018.2
+## 2019.2
 Neste semestre a temática do projeto deve tratar de algum(ns) aspecto(s) do desenvolvimento de uma aplicação, serviço ou solução de apoio ao paradigma DevOps, ou da Engenharia de Software Contínua, no ciclo de vida de software.
 
 Vale ressaltar que o projeto tem **caráter puramente acadêmico e educacional**.
@@ -25,22 +25,20 @@ Maiores informaçoes sobre **GQM** podem ser obtidas nos links:
 1. Especificação e construção de um serviço/mecanismo de apoio a um pipeline de Integração e Implantação Contínua para aplicações no contexto de Computação Ubíqua.
 1. Especificação e construção de um serviço/mecanismo de apoio a um pipeline de Integração e Implantação Contínua para aplicações com arquitetura de microsserviços.
 
-## 2017.2
+## DevOps Aid Tool
 
-### DevOps Aid Tool
-
-#### Introduction 
+### Introduction 
 
 This is a practical academic exercise to incentive the study of DevOps and Software Architecture.
 
-#### Objectives
+### Objectives
 * Understanding motivations to adopt DevOps (Continuous Integration, Deployment, Delivering, Containerizing, among others)
 * Using a scientific approach to detail deployment architectural design
 * Promoting the adoption of tests during development step
 * Promoting the knowledge of Deployment Pipeline
 * Sharing tactics to support deployability, availability and scalability
 
-#### Project
+### Project
 
 The project will address several aspects of the development of an application, service or solution supporting the DevOps paradigm in the software life cycle.
 
