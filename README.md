@@ -138,6 +138,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * Jenkins
   * [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 * Kubernetes
+  * [Kubernetes Failure Stories](https://k8s.af), a compiled list of links to **public failure stories** related to Kubernetes.
   * [Você sabe qual a origem do Kubernetes do Google Cloud?](https://wp.me/pfWSN-frI), bt Renê Fraga -- May 28, 2019
   * [Jérôme Petazzoni - Talk about Kubernetes | ContainerWeek](https://www.youtube.com/watch?v=WkM9R9-WQCk), by Jérôme Petazzoni -- April 8, 2019.
   * [KUBECTL PARA PREGUIÇOSOS](https://churrops.io/2019/03/17/kubernetes-kubectl-para-preguicosos/), by Wellington Bastos -- March 17, 2019.
