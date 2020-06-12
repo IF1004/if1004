@@ -272,6 +272,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Research Trends
 
 * **2019**
+  * Leonardo Leite, Carla Rocha, Fabio Kon, Dejan Milojicic, and Paulo Meirelles. 2019. [**A Survey of DevOps Concepts and Challenges**](https://dl.acm.org/doi/10.1145/3359981). ACM Comput. Surv. 52, 6, Article 127 (January 2020), 35 pages. DOI: <https://doi.org/10.1145/3359981>
   * Welder Pinheiro Luz, Gustavo Pinto, Rodrigo Bonifácio, [**Adopting DevOps in the real world: A theory, a model, and a case study**](https://www.sciencedirect.com/science/article/pii/S0164121219301517), [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), Volume 157, 2019, 110384, ISSN 0164-1212, doi: <https://doi.org/10.1016/j.jss.2019.07.083>.
   * Philipp Leitner, Erik Wittern, Josef Spillner, Waldemar Hummer, [**A mixed-method empirical study of Function-as-a-Service software development in industrial practice**](https://doi.org/10.1016/j.jss.2018.12.013), Journal of Systems and Software, Volume 149, 2019, Pages 340-359, ISSN 0164-1212, DOI: 10.1016/j.jss.2018.12.013.
   * [**Architecture and Design InfoQ Trends Report - January 2019**](https://www.infoq.com/articles/architecture-trends-2019), by Daniel Bryant & Thomas Betts & Charles Humble, Jan 24, 2019.
