@@ -155,6 +155,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [11 Ways (Not) to Get Hacked - Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
   * [Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
   * [Kubernetes best practices: Resource requests and limits](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-Resource-requests-and-limits.html)
+  * Kubernetes: dicas e truques na orquestração de containers [Parte 1](https://medium.com/@renato.groffe/kubernetes-dicas-e-truques-na-orquestra%C3%A7%C3%A3o-de-containers-parte-1-92bdd8d6780), [Parte 2](https://medium.com/@renato.groffe/kubernetes-dicas-e-truques-na-orquestra%C3%A7%C3%A3o-de-containers-parte-2-5b32148cb2af), [Parte 3](https://medium.com/@renato.groffe/kubernetes-dicas-e-truques-na-orquestra%C3%A7%C3%A3o-de-containers-parte-3-26f3838b4d46), [Parte 4](https://medium.com/azure-na-pratica/kubernetes-dicas-e-truques-na-orquestra%C3%A7%C3%A3o-de-containers-parte-4-e81f4fded9a9), by Renato Groffe
 * Microservices
   * LEWIS, J.; FOWLER, M. [**Microservices: a definition of this new architectural term**](https://martinfowler.com/articles/microservices.html). MartinFowler. com, v. 25, Mar 2014.
   * X. Larrucea, I. Santamaria, R. Colomo-Palacios and C. Ebert, "**Microservices**," in IEEE Software, vol. 35, no. 3, pp. 96-100, May/June 2018. doi: [10.1109/MS.2018.2141030](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354423&isnumber=8354413)
@@ -245,6 +246,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 * [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
 * [Docker, FROM scratch - Aaron Powell](https://www.youtube.com/watch?v=i7yoXqlg48M) [YouTube], NDC Conferences, Publicado em 25 de set de 2017
 * [Hands on Lab Overview: DevOps Cloud Native Microservices Development - YouTube](https://www.youtube.com/playlist?list=PLPIzp-E1msrZhDmRUnNBSYY6LJ2yWh3Ro)
+- [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE), Oct 24, 2019
 
 ### Business Cases
 
