@@ -220,6 +220,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+* [DevOps - p de Podcast](https://open.spotify.com/episode/3xNWRFRxpLsFf06WYxr8Kz?si=zWGcD1KhSgi0kz6w3sDSHQ), 11 de Setembro de 2020, _Neste episódio discutimos a Cultura DevOps, partindo do significado de termos como Integração Contínua e Entrega Contínua, passando pela automação necessária no desenvolvimento e na infraestrutura até como começar a praticar em contextos diferentes. Contamos com a participação especial do Leonardo Leite, pesquisador/doutorando da USP._
 * [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations), Learn how to transform your organization using the principles and practices of DevOps.
 * [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
 * [Cinco coisas que todo desenvolvedor de software deve saber sobre Arquitetura de Software](https://www.infoq.com/br/articles/architecture-five-things)
