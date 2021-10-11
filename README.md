@@ -210,6 +210,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   * [Heart of the SwarmKit: Topology Management by Andrea Luzzardi](https://speakerdeck.com/aluzzardi/heart-of-the-swarmkit-topology-management)
   * [Everything You Thought You Already Knew About Orchestration](https://www.youtube.com/watch?v=Qsv-q8WbIZY), Laura Frank from DockerCon 2017
   * [Using Prune to Keep Your Docker System Clean (YouTube)](https://youtu.be/_4QzP7uwtvI)
+* Terraform
+  * [HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 12+ Hour Course](https://bit.ly/3v0QyQZ), by Andrew Brown -- Oct 5, 2021
 * Testes
   * [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
   * [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
