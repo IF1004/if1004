@@ -276,6 +276,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+* **2021**
+* N. C. Mendonça, C. Box, C. Manolache and L. Ryan, "[**The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture**](https://doi.org/10.1109/MS.2021.3080335)," in [IEEE Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52), vol. 38, [no. 5](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9520220), pp. 17-22, Sept.-Oct. 2021, doi: <https://doi.org/10.1109/MS.2021.3080335>.
 * **2019**
   * Leonardo Leite, Carla Rocha, Fabio Kon, Dejan Milojicic, and Paulo Meirelles. 2019. [**A Survey of DevOps Concepts and Challenges**](https://dl.acm.org/doi/10.1145/3359981). ACM Comput. Surv. 52, 6, Article 127 (January 2020), 35 pages. DOI: <https://doi.org/10.1145/3359981>
   * Welder Pinheiro Luz, Gustavo Pinto, Rodrigo Bonifácio, [**Adopting DevOps in the real world: A theory, a model, and a case study**](https://www.sciencedirect.com/science/article/pii/S0164121219301517), [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), Volume 157, 2019, 110384, ISSN 0164-1212, doi: <https://doi.org/10.1016/j.jss.2019.07.083>.
